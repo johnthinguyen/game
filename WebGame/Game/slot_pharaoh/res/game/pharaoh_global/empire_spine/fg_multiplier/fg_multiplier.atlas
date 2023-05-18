@@ -1,0 +1,20 @@
+
+fg_multiplier.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FG_Multiply/BetLight
+  rotate: false
+  xy: 2, 2
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+FG_Multiply/FlashLight
+  rotate: false
+  xy: 2, 34
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1456 @@
+{
+  "ID": "21fe0887-e121-46e9-ba29-aa998facee89",
+  "Version": "3.10.0.0",
+  "Name": "empire_main_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 4,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 9,
+                "ActionTag": -354135996,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/board_bg.png",
+                  "Plist": "empire_sprites_common.plist"
+                },
+                "Scale9OriginX": 231,
+                "Scale9OriginY": 192,
+                "Scale9Width": 240,
+                "Scale9Height": 164,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5484,
+                  "Y": 0.7542
+                },
+                "LeftMargin": 289.0,
+                "RightMargin": 289.0,
+                "TopMargin": 88.5,
+                "BottomMargin": 88.5,
+                "Tag": 438,
+                "Children": [
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 351.0,
+                      "Y": 452.319
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.833
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.573,
+                      "Y": 0.135
+                    },
+                    "LeftMargin": 149.877,
+                    "RightMargin": 149.877,
+                    "TopMargin": 54.0285,
+                    "BottomMargin": 415.6665,
+                    "Tag": 79,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 200.6001,
+                          "Y": 36.6525
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4987,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": -0.5229,
+                        "RightMargin": 0.5229,
+                        "Tag": 80,
+                        "ActionTag": -2024847114,
+                        "Size": {
+                          "X": 402.246,
+                          "Y": 73.305
+                        },
+                        "Name": "panel_reel_top",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1694459861,
+                    "Size": {
+                      "X": 402.246,
+                      "Y": 73.305
+                    },
+                    "Name": "panel_reel_top_container",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 98.28,
+                      "Y": 434.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.14,
+                      "Y": 0.8
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 98.28,
+                    "RightMargin": 603.72,
+                    "TopMargin": 108.6,
+                    "BottomMargin": 434.4,
+                    "Tag": 84,
+                    "ActionTag": 1261832622,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "fx_near_win_node",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 351.4212,
+                      "Y": 221.1639
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 0.4073
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.86,
+                      "Y": 0.68
+                    },
+                    "LeftMargin": 49.5612,
+                    "RightMargin": 48.7188,
+                    "TopMargin": 137.2161,
+                    "BottomMargin": 36.5439,
+                    "Tag": 439,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.7125,
+                          "Y": 184.62
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.084,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1507,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 5.2222,
+                        "RightMargin": 507.5173,
+                        "Tag": 455,
+                        "ActionTag": -768442083,
+                        "Size": {
+                          "X": 90.9806,
+                          "Y": 369.24
+                        },
+                        "Name": "panel_reel_0",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 150.2659,
+                          "Y": 184.62
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2489,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1507,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 104.7756,
+                        "RightMargin": 407.9638,
+                        "Tag": 458,
+                        "ActionTag": -2025836890,
+                        "Size": {
+                          "X": 90.9806,
+                          "Y": 369.24
+                        },
+                        "Name": "panel_reel_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 249.9401,
+                          "Y": 184.62
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.414,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1507,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 204.4498,
+                        "RightMargin": 308.2897,
+                        "Tag": 459,
+                        "ActionTag": -1145640670,
+                        "Size": {
+                          "X": 90.9806,
+                          "Y": 369.24
+                        },
+                        "Name": "panel_reel_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 349.5539,
+                          "Y": 184.62
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.579,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1507,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 304.0636,
+                        "RightMargin": 208.6759,
+                        "Tag": 462,
+                        "ActionTag": 721139456,
+                        "Size": {
+                          "X": 90.9806,
+                          "Y": 369.24
+                        },
+                        "Name": "panel_reel_3",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 449.8318,
+                          "Y": 184.62
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7451,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1507,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 404.3415,
+                        "RightMargin": 108.398,
+                        "Tag": 463,
+                        "ActionTag": 1895596321,
+                        "Size": {
+                          "X": 90.9806,
+                          "Y": 369.24
+                        },
+                        "Name": "panel_reel_4",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 549.3852,
+                          "Y": 184.62
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.91,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1507,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 503.8949,
+                        "RightMargin": 8.8445,
+                        "Tag": 79,
+                        "ActionTag": -403934391,
+                        "Size": {
+                          "X": 90.9806,
+                          "Y": 369.24
+                        },
+                        "Name": "panel_reel_5",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -832346156,
+                    "Size": {
+                      "X": 603.72,
+                      "Y": 369.24
+                    },
+                    "Name": "panel_reels_container",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "empire_img/free_game_panel.png",
+                      "Plist": "empire_sprites_common.plist"
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 85,
+                    "Scale9Width": 41,
+                    "Scale9Height": 90,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -34.398,
+                      "Y": 260.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": -0.049,
+                      "Y": 0.48
+                    },
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 0.4513
+                    },
+                    "LeftMargin": -83.523,
+                    "RightMargin": 687.273,
+                    "TopMargin": 159.84,
+                    "BottomMargin": 138.12,
+                    "Tag": 105,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/text_eliminate_time.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.125,
+                          "Y": 209.5092
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.855
+                        },
+                        "PreSize": {
+                          "X": 0.9262,
+                          "Y": 0.0612
+                        },
+                        "LeftMargin": 3.625,
+                        "RightMargin": 3.625,
+                        "TopMargin": 28.0308,
+                        "BottomMargin": 202.0092,
+                        "Tag": 82,
+                        "ActionTag": -2045799899,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 15.0
+                        },
+                        "Name": "text_eliminate_time",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/text_free_spins.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.125,
+                          "Y": 88.2144
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.36
+                        },
+                        "PreSize": {
+                          "X": 0.7837,
+                          "Y": 0.0694
+                        },
+                        "LeftMargin": 10.625,
+                        "RightMargin": 10.625,
+                        "TopMargin": 148.3256,
+                        "BottomMargin": 79.7144,
+                        "Tag": 83,
+                        "ActionTag": -1590515171,
+                        "Size": {
+                          "X": 77.0,
+                          "Y": 17.0
+                        },
+                        "Name": "text_free_spins",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "LabelText": "X1",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "empire_fonts/font_eliminate.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 43.0082,
+                          "Y": 154.3751
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4377,
+                          "Y": 0.63
+                        },
+                        "PreSize": {
+                          "X": 0.7735,
+                          "Y": 0.2163
+                        },
+                        "LeftMargin": 5.0082,
+                        "RightMargin": 17.2418,
+                        "TopMargin": 64.1649,
+                        "BottomMargin": 127.8751,
+                        "Tag": 84,
+                        "ActionTag": -1845172696,
+                        "Size": {
+                          "X": 76.0,
+                          "Y": 53.0
+                        },
+                        "Name": "value_eliminate_time",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "empire_fonts/font_free_spins.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 43.171,
+                          "Y": 51.4584
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4394,
+                          "Y": 0.21
+                        },
+                        "PreSize": {
+                          "X": 0.4682,
+                          "Y": 0.2163
+                        },
+                        "LeftMargin": 20.171,
+                        "RightMargin": 32.0789,
+                        "TopMargin": 167.0816,
+                        "BottomMargin": 24.9584,
+                        "Tag": 85,
+                        "ActionTag": 912553740,
+                        "Size": {
+                          "X": 46.0,
+                          "Y": 53.0
+                        },
+                        "Name": "value_free_spins",
+                        "ctype": "TextBMFontObjectData"
+                      }
+                    ],
+                    "ActionTag": 1216175318,
+                    "Size": {
+                      "X": 98.25,
+                      "Y": 245.04
+                    },
+                    "Name": "panel_free_game_info",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 49.14,
+                      "Y": 499.56
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.07,
+                      "Y": 0.92
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.29,
+                      "Y": 0.06
+                    },
+                    "LeftMargin": 49.14,
+                    "RightMargin": 449.28,
+                    "TopMargin": 10.86,
+                    "BottomMargin": 499.56,
+                    "Tag": 80,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/text_lines.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 152.685,
+                          "Y": 15.6384
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.75,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 0.3291,
+                          "Y": 0.6753
+                        },
+                        "LeftMargin": 119.185,
+                        "RightMargin": 17.395,
+                        "TopMargin": 5.9416,
+                        "BottomMargin": 4.6384,
+                        "Tag": 79,
+                        "ActionTag": -1208348857,
+                        "Size": {
+                          "X": 67.0,
+                          "Y": 22.0
+                        },
+                        "Name": "text_win_lines",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "LabelText": "7500",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "empire_fonts/font_lines.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 61.074,
+                          "Y": 17.919
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.3,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.393,
+                          "Y": 0.9822
+                        },
+                        "LeftMargin": 21.074,
+                        "RightMargin": 102.506,
+                        "TopMargin": -1.339,
+                        "BottomMargin": 1.919,
+                        "Tag": 81,
+                        "ActionTag": -1249768856,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 32.0
+                        },
+                        "Name": "value_win_lines",
+                        "ctype": "TextBMFontObjectData"
+                      }
+                    ],
+                    "ActionTag": -1142095975,
+                    "Size": {
+                      "X": 203.58,
+                      "Y": 32.58
+                    },
+                    "Name": "panel_win_lines",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -107324133,
+                "Size": {
+                  "X": 702.0,
+                  "Y": 543.0
+                },
+                "Name": "board",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 720.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "BottomMargin": 720.0,
+                "Tag": 87,
+                "ActionTag": -458349829,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "header",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "TopMargin": 720.0,
+                "Tag": 88,
+                "ActionTag": 1965694258,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "footer",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 153,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 259,
+                "ActionTag": -1342649156,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "cover",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/fg_start_free.png",
+                  "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 396.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.55
+                },
+                "PreSize": {
+                  "X": 0.2953,
+                  "Y": 0.0889
+                },
+                "LeftMargin": 131.0,
+                "RightMargin": 771.0,
+                "TopMargin": 292.0,
+                "BottomMargin": 364.0,
+                "Tag": 193,
+                "ActionTag": 1623901120,
+                "Size": {
+                  "X": 378.0,
+                  "Y": 64.0
+                },
+                "VisibleForFrame": false,
+                "Name": "fg_start_free",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/tutorial_start_free.png",
+                  "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 144.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "PreSize": {
+                  "X": 0.4828,
+                  "Y": 0.1972
+                },
+                "LeftMargin": 331.0,
+                "RightMargin": 331.0,
+                "TopMargin": 505.0,
+                "BottomMargin": 73.0,
+                "Tag": 194,
+                "ActionTag": -740443609,
+                "Size": {
+                  "X": 618.0,
+                  "Y": 142.0
+                },
+                "VisibleForFrame": false,
+                "Name": "tutorial_start_free",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/freespin_end_free.png",
+                  "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.6,
+                  "Y": 144.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.47,
+                  "Y": 0.2
+                },
+                "PreSize": {
+                  "X": 0.1312,
+                  "Y": 0.05
+                },
+                "LeftMargin": 517.6,
+                "RightMargin": 594.4,
+                "TopMargin": 558.0,
+                "BottomMargin": 126.0,
+                "Tag": 74,
+                "ActionTag": 936355903,
+                "Size": {
+                  "X": 168.0,
+                  "Y": 36.0
+                },
+                "VisibleForFrame": false,
+                "Name": "freespin_end_free",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/congrat_end_free.png",
+                  "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3266,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 431.0,
+                "RightMargin": 431.0,
+                "TopMargin": 327.0,
+                "BottomMargin": 327.0,
+                "Tag": 75,
+                "ActionTag": 1531578165,
+                "Size": {
+                  "X": 418.0,
+                  "Y": 66.0
+                },
+                "VisibleForFrame": false,
+                "Name": "congrat_end_free",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 987084949,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "main_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "empire_fonts/font_eliminate.fnt",
+        "empire_fonts/font_eliminate.png",
+        "empire_fonts/font_free_spins.fnt",
+        "empire_fonts/font_free_spins.png",
+        "empire_fonts/font_lines.fnt",
+        "empire_fonts/font_lines.png",
+        "empire_sprites_common.plist",
+        "empire_sprites_common.png",
+        "empire_spritesheets/empire_tutorial_text.plist",
+        "empire_spritesheets/empire_tutorial_text.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

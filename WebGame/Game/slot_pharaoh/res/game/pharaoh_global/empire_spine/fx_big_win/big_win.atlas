@@ -1,0 +1,314 @@
+
+big_win.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bigwin/1f_star_7
+  rotate: false
+  xy: 450, 1592
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Bigwin/Big
+  rotate: false
+  xy: 2, 1252
+  size: 817, 336
+  orig: 817, 336
+  offset: 0, 0
+  index: -1
+Bigwin/BigWin_Light
+  rotate: false
+  xy: 1877, 1883
+  size: 97, 93
+  orig: 97, 93
+  offset: 0, 0
+  index: -1
+Bigwin/Gold_02b
+  rotate: false
+  xy: 138, 1891
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Bigwin/Gold_03b
+  rotate: false
+  xy: 225, 1891
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Bigwin/Gold_04b
+  rotate: false
+  xy: 312, 1891
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Bigwin/Mega
+  rotate: false
+  xy: 821, 1160
+  size: 817, 336
+  orig: 817, 336
+  offset: 0, 0
+  index: -1
+Bigwin/MegaWin_Light
+  rotate: false
+  xy: 392, 1794
+  size: 153, 94
+  orig: 153, 94
+  offset: 0, 0
+  index: -1
+Bigwin/PP_Win03
+  rotate: false
+  xy: 1275, 1886
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Bigwin/Star_02
+  rotate: false
+  xy: 6, 1912
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bigwin/SuperWin_Light
+  rotate: false
+  xy: 547, 1794
+  size: 175, 94
+  orig: 175, 94
+  offset: 0, 0
+  index: -1
+Bigwin/Torch
+  rotate: true
+  xy: 399, 1890
+  size: 86, 192
+  orig: 86, 192
+  offset: 0, 0
+  index: -1
+Bigwin/Torch_Fire
+  rotate: false
+  xy: 652, 1590
+  size: 243, 200
+  orig: 243, 200
+  offset: 0, 0
+  index: -1
+Bigwin/Win_01
+  rotate: true
+  xy: 1640, 934
+  size: 817, 336
+  orig: 817, 336
+  offset: 0, 0
+  index: -1
+Bigwin/Win_02
+  rotate: false
+  xy: 2, 914
+  size: 817, 336
+  orig: 817, 336
+  offset: 0, 0
+  index: -1
+Bigwin/Win_03
+  rotate: false
+  xy: 821, 822
+  size: 817, 336
+  orig: 817, 336
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_01
+  rotate: false
+  xy: 1621, 1884
+  size: 133, 92
+  orig: 133, 92
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_02
+  rotate: false
+  xy: 1501, 1885
+  size: 118, 91
+  orig: 118, 91
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_03
+  rotate: false
+  xy: 2, 1817
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_04
+  rotate: false
+  xy: 855, 1792
+  size: 123, 95
+  orig: 123, 95
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_05
+  rotate: false
+  xy: 724, 1794
+  size: 129, 94
+  orig: 129, 94
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_06
+  rotate: false
+  xy: 132, 1796
+  size: 134, 93
+  orig: 134, 93
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_07
+  rotate: false
+  xy: 593, 1890
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_08
+  rotate: false
+  xy: 869, 1889
+  size: 135, 87
+  orig: 135, 87
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_09
+  rotate: false
+  xy: 1145, 1887
+  size: 128, 89
+  orig: 128, 89
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_10
+  rotate: false
+  xy: 1756, 1884
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_11
+  rotate: false
+  xy: 268, 1796
+  size: 122, 93
+  orig: 122, 93
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_12
+  rotate: false
+  xy: 980, 1790
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_13
+  rotate: false
+  xy: 1367, 1886
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_14
+  rotate: false
+  xy: 731, 1890
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+Bigwin/fire01_15
+  rotate: false
+  xy: 1006, 1888
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+Bigwin/super
+  rotate: false
+  xy: 2, 576
+  size: 817, 336
+  orig: 817, 336
+  offset: 0, 0
+  index: -1
+FX/1f_star_6
+  rotate: false
+  xy: 1326, 1756
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/4win
+  rotate: false
+  xy: 1108, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FX/Bg_Black
+  rotate: false
+  xy: 2, 1974
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+FX/BigWin_BG
+  rotate: true
+  xy: 897, 1561
+  size: 222, 266
+  orig: 222, 266
+  offset: 0, 0
+  index: -1
+FX/Exp_Light
+  rotate: false
+  xy: 1586, 1754
+  size: 218, 128
+  orig: 218, 128
+  offset: 0, 0
+  index: -1
+FX/GoldRing_W
+  rotate: false
+  xy: 1165, 1498
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+FX/Light_02
+  rotate: false
+  xy: 1456, 1755
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/Light_05
+  rotate: false
+  xy: 1806, 1753
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/Light_12
+  rotate: false
+  xy: 72, 1912
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+FX/SmallSpots_02
+  rotate: false
+  xy: 2, 1687
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/W_Light01
+  rotate: true
+  xy: 1210, 1775
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+Num_BG
+  rotate: false
+  xy: 132, 1605
+  size: 316, 187
+  orig: 316, 187
+  offset: 0, 0
+  index: -1

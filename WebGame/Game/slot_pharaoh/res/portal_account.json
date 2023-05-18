@@ -1,0 +1,254 @@
+{
+  "ID": "647d1567-ef0e-43a1-9a6c-b7a18e471ef1",
+  "Version": "3.10.0.0",
+  "Name": "portal_account",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -100.0,
+            "RightMargin": -100.0,
+            "TopMargin": -50.0,
+            "BottomMargin": -50.0,
+            "Tag": 26,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "popup.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 23,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.1,
+                  "Y": 0.8
+                },
+                "LeftMargin": -10.0,
+                "RightMargin": -10.0,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 24,
+                "ActionTag": -1101771098,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 80.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "00000000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fester_bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 64.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.65
+                },
+                "PreSize": {
+                  "X": 0.45,
+                  "Y": 0.3
+                },
+                "LeftMargin": 55.0,
+                "RightMargin": 55.0,
+                "TopMargin": 20.0003,
+                "BottomMargin": 49.9997,
+                "Tag": 27,
+                "ActionTag": 631515179,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 30.0
+                },
+                "Name": "text_id",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "BETA",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fester_bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 37.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.38
+                },
+                "PreSize": {
+                  "X": 0.265,
+                  "Y": 0.3
+                },
+                "LeftMargin": 73.5,
+                "RightMargin": 73.5,
+                "TopMargin": 47.0001,
+                "BottomMargin": 22.9999,
+                "Tag": 25,
+                "ActionTag": 781359939,
+                "Size": {
+                  "X": 53.0,
+                  "Y": 30.0
+                },
+                "Name": "text_name",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 783668257,
+            "Size": {
+              "X": 200.0,
+              "Y": 100.0
+            },
+            "Name": "item",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "root",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "fester_bold.ttf",
+        "popup.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

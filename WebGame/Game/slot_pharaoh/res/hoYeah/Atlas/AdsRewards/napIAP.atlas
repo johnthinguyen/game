@@ -1,0 +1,125 @@
+
+napIAP.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 65
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 65, 68
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 65, 8
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 128, 78
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 128, 28
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 191, 88
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 191, 48
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 254, 100
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+55
+  rotate: false
+  xy: 254, 72
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 317, 107
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+66
+  rotate: false
+  xy: 254, 51
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 128, 11
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+77
+  rotate: false
+  xy: 191, 31
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 317, 94
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+88
+  rotate: false
+  xy: 380, 115
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 317, 55
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+bg_mg.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+MainScene/Background/MG_B_grass01
+  rotate: true
+  xy: 849, 255
+  size: 252, 150
+  orig: 252, 150
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_B_grass02
+  rotate: false
+  xy: 796, 748
+  size: 354, 174
+  orig: 354, 174
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_B_grass03
+  rotate: true
+  xy: 659, 718
+  size: 364, 135
+  orig: 364, 135
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_Cloud_01
+  rotate: false
+  xy: 659, 509
+  size: 500, 207
+  orig: 500, 207
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_Cloud_02
+  rotate: false
+  xy: 659, 283
+  size: 188, 224
+  orig: 188, 224
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_Cloud_03
+  rotate: true
+  xy: 1161, 303
+  size: 287, 128
+  orig: 287, 128
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_F_grass01
+  rotate: true
+  xy: 1161, 592
+  size: 330, 202
+  orig: 330, 202
+  offset: 0, 0
+  index: -1
+MainScene/Background/MG_F_grass02
+  rotate: true
+  xy: 659, 2
+  size: 279, 142
+  orig: 279, 142
+  offset: 0, 0
+  index: -1
+MainScene/MG_Cloud_04
+  rotate: true
+  xy: 2, 282
+  size: 800, 416
+  orig: 800, 416
+  offset: 0, 0
+  index: -1
+MainScene/MG_Mountain
+  rotate: false
+  xy: 2, 1084
+  size: 800, 640
+  orig: 800, 640
+  offset: 0, 0
+  index: -1
+MainScene/MG_Stone ladder
+  rotate: true
+  xy: 420, 282
+  size: 800, 237
+  orig: 800, 237
+  offset: 0, 0
+  index: -1
+MainScene/MG_sky
+  rotate: true
+  xy: 804, 924
+  size: 800, 640
+  orig: 800, 640
+  offset: 0, 0
+  index: -1

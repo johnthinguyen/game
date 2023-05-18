@@ -1,0 +1,48 @@
+
+bt_nap.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt
+  rotate: false
+  xy: 2, 139
+  size: 202, 79
+  orig: 202, 79
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 2, 35
+  size: 183, 28
+  orig: 183, 28
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 2, 102
+  size: 182, 35
+  orig: 182, 35
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 2, 65
+  size: 182, 35
+  orig: 182, 35
+  offset: 0, 0
+  index: -1
+pt2
+  rotate: false
+  xy: 2, 2
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+ptc
+  rotate: false
+  xy: 206, 212
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>empire_img/tutorial/btn_next_page.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1226,301},{53,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{53,63}</string>
+			</dict>
+			<key>empire_img/tutorial/page_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1663,2},{360,222}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,222}</string>
+			</dict>
+			<key>empire_img/tutorial/page_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{621,301},{98,221}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{98,221}</string>
+			</dict>
+			<key>empire_img/tutorial/page_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1663,228},{348,185}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{348,185}</string>
+			</dict>
+			<key>empire_img/tutorial/page_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{621,2},{517,295}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{517,295}</string>
+			</dict>
+			<key>empire_img/tutorial/page_4_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1036,301},{63,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_4_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{382,354},{64,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_4_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1131,301},{63,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_4_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,354},{75,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_4_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{477,354},{64,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1142,2},{517,295}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{517,295}</string>
+			</dict>
+			<key>empire_img/tutorial/page_5_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{97,354},{75,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_5_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{846,301},{64,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_5_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{941,301},{64,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_5_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{192,354},{75,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,91}</string>
+			</dict>
+			<key>empire_img/tutorial/page_5_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{287,354},{75,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,91}</string>
+			</dict>
+			<key>empire_img/tutorial/prompt_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{615,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{615,348}</string>
+			</dict>
+			<key>empire_img/tutorial/page_current_index.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2027,2},{9,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{9,9}</string>
+			</dict>
+			<key>empire_img/tutorial/page_index.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2027,15},{9,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{9,9}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>empire_sprites_tutorial.png</string>
+			<key>realTextureFileName</key>
+			<string>empire_sprites_tutorial.png</string>
+			<key>size</key>
+			<string>{2048,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

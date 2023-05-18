@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J
+  rotate: false
+  xy: 2, 199
+  size: 448, 148
+  orig: 448, 148
+  offset: 0, 0
+  index: -1
+ased
+  rotate: false
+  xy: 2, 632
+  size: 670, 390
+  orig: 670, 390
+  offset: 0, 0
+  index: -1
+coin/CoinEffect0
+  rotate: false
+  xy: 674, 721
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+coin/CoinEffect10
+  rotate: false
+  xy: 760, 721
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+coin/CoinEffect15
+  rotate: true
+  xy: 674, 635
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+coin/CoinEffect20
+  rotate: false
+  xy: 221, 23
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+coin/CoinEffect25
+  rotate: false
+  xy: 846, 721
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+coin/CoinEffect5
+  rotate: false
+  xy: 135, 23
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+diamond/skcDiamon0
+  rotate: false
+  xy: 307, 56
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+diamond/skcDiamon11
+  rotate: false
+  xy: 769, 654
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+diamond/skcDiamon16
+  rotate: true
+  xy: 940, 930
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+diamond/skcDiamon18
+  rotate: false
+  xy: 534, 378
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+diamond/skcDiamon3
+  rotate: true
+  xy: 940, 852
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+effect_sparkle
+  rotate: false
+  xy: 2, 349
+  size: 440, 281
+  orig: 440, 281
+  offset: 0, 0
+  index: -1
+no0000
+  rotate: false
+  xy: 444, 430
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+non
+  rotate: false
+  xy: 2, 2
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+vg
+  rotate: false
+  xy: 2, 118
+  size: 483, 79
+  orig: 483, 79
+  offset: 0, 0
+  index: -1
+xe
+  rotate: false
+  xy: 674, 816
+  size: 264, 206
+  orig: 264, 206
+  offset: 0, 0
+  index: -1
+xeg
+  rotate: true
+  xy: 444, 351
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1

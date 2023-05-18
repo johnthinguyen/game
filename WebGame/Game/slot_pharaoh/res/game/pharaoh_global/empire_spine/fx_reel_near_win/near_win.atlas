@@ -1,0 +1,230 @@
+
+near_win.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+NearWin/FG_frame_00
+  rotate: true
+  xy: 111, 897
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_01
+  rotate: true
+  xy: 373, 897
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_02
+  rotate: true
+  xy: 635, 897
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_03
+  rotate: true
+  xy: 2, 795
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_04
+  rotate: true
+  xy: 264, 795
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_05
+  rotate: true
+  xy: 526, 795
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_06
+  rotate: false
+  xy: 897, 737
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_07
+  rotate: true
+  xy: 2, 693
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_08
+  rotate: true
+  xy: 264, 693
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_09
+  rotate: true
+  xy: 526, 693
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_10
+  rotate: false
+  xy: 788, 635
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_11
+  rotate: true
+  xy: 2, 591
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_12
+  rotate: true
+  xy: 264, 591
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_13
+  rotate: true
+  xy: 526, 591
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_14
+  rotate: true
+  xy: 2, 489
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_15
+  rotate: true
+  xy: 264, 489
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_16
+  rotate: true
+  xy: 526, 489
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_17
+  rotate: false
+  xy: 890, 475
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_18
+  rotate: true
+  xy: 2, 387
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_19
+  rotate: true
+  xy: 264, 387
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_20
+  rotate: true
+  xy: 526, 387
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_21
+  rotate: false
+  xy: 788, 373
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_22
+  rotate: true
+  xy: 2, 285
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_23
+  rotate: true
+  xy: 264, 285
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_24
+  rotate: true
+  xy: 526, 285
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_25
+  rotate: false
+  xy: 890, 213
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_26
+  rotate: true
+  xy: 2, 183
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_27
+  rotate: true
+  xy: 264, 183
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_28
+  rotate: true
+  xy: 526, 183
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/FG_frame_29
+  rotate: false
+  xy: 788, 111
+  size: 100, 260
+  orig: 100, 260
+  offset: 0, 0
+  index: -1
+NearWin/eft_bol_01
+  rotate: false
+  xy: 2, 957
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+NearWin/newin_c03
+  rotate: false
+  xy: 44, 957
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1

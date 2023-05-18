@@ -1,0 +1,2726 @@
+{
+  "ID": "483de98d-000f-4e0f-b759-2abd5ddc7d78",
+  "Version": "3.10.0.0",
+  "Name": "empire_tutorial_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 92,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.36,
+              "Y": 360.648
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4995,
+              "Y": 0.5009
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.64,
+            "RightMargin": 0.64,
+            "TopMargin": -0.6479,
+            "BottomMargin": 0.648,
+            "Tag": 110,
+            "ActionTag": -113122189,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "cover",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "empire_img/tutorial/prompt_bg.png",
+              "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+            },
+            "Scale9OriginX": 202,
+            "Scale9OriginY": 170,
+            "Scale9Width": 211,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7031,
+              "Y": 0.6944
+            },
+            "LeftMargin": 190.0,
+            "RightMargin": 190.0,
+            "TopMargin": 110.0,
+            "BottomMargin": 110.0,
+            "Tag": 117,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/button_bg.png",
+                  "Plist": "empire_sprites_common.plist"
+                },
+                "Scale9OriginX": 21,
+                "Scale9OriginY": 22,
+                "Scale9Width": 17,
+                "Scale9Height": 15,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 889.56,
+                  "Y": 489.9
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9884,
+                  "Y": 0.9798
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.118
+                },
+                "LeftMargin": 860.06,
+                "RightMargin": -19.06,
+                "TopMargin": -19.4,
+                "BottomMargin": 460.4,
+                "Tag": 154,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "empire_img/icon_close.png",
+                      "Plist": "empire_sprites_common.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 29.5,
+                      "Y": 29.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6441,
+                      "Y": 0.678
+                    },
+                    "LeftMargin": 10.5,
+                    "RightMargin": 10.5,
+                    "TopMargin": 9.5,
+                    "BottomMargin": 9.5,
+                    "Tag": 155,
+                    "ActionTag": -1200530075,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Iconclose",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1883372558,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 59.0
+                },
+                "Name": "button_close",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -54.0,
+                  "Y": 260.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.06,
+                  "Y": 0.52
+                },
+                "PreSize": {
+                  "X": 0.1111,
+                  "Y": 0.3
+                },
+                "LeftMargin": -104.0,
+                "RightMargin": 904.0,
+                "TopMargin": 165.0,
+                "BottomMargin": 185.0,
+                "Tag": 156,
+                "Children": [
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "empire_img/tutorial/btn_next_page.png",
+                      "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 75.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.53,
+                      "Y": 0.42
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 43.5,
+                    "BottomMargin": 43.5,
+                    "Tag": 157,
+                    "ActionTag": -363854236,
+                    "Size": {
+                      "X": 53.0,
+                      "Y": 63.0
+                    },
+                    "Name": "icon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1116375936,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 150.0
+                },
+                "Name": "button_left",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 953.9999,
+                  "Y": 260.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 1.06,
+                  "Y": 0.52
+                },
+                "PreSize": {
+                  "X": 0.1111,
+                  "Y": 0.3
+                },
+                "LeftMargin": 903.9999,
+                "RightMargin": -103.9999,
+                "TopMargin": 165.0,
+                "BottomMargin": 185.0,
+                "Tag": 158,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "empire_img/tutorial/btn_next_page.png",
+                      "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 75.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.53,
+                      "Y": 0.42
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 43.5,
+                    "BottomMargin": 43.5,
+                    "Tag": 159,
+                    "ActionTag": -1095637996,
+                    "Size": {
+                      "X": 53.0,
+                      "Y": 63.0
+                    },
+                    "Name": "icon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -431625753,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 150.0
+                },
+                "Name": "button_right",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 450.0,
+                  "Y": 250.0
+                },
+                "Scale": {
+                  "ScaleX": 1.03,
+                  "ScaleY": 1.0576
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.95,
+                  "Y": 0.89
+                },
+                "LeftMargin": 22.5,
+                "RightMargin": 22.5,
+                "TopMargin": 27.5,
+                "BottomMargin": 27.5,
+                "Tag": 120,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 4275.0,
+                    "Tag": 121,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_text_golden_frame.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 421.2815
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9467
+                        },
+                        "PreSize": {
+                          "X": 0.2561,
+                          "Y": 0.0629
+                        },
+                        "LeftMargin": 318.0,
+                        "RightMargin": 318.0,
+                        "TopMargin": 9.7185,
+                        "BottomMargin": 407.2815,
+                        "Tag": 122,
+                        "ActionTag": -1255480292,
+                        "Size": {
+                          "X": 219.0,
+                          "Y": 28.0
+                        },
+                        "Name": "text_title",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_page_1_text_1.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 42.8355,
+                          "Y": 299.574
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0501,
+                          "Y": 0.6732
+                        },
+                        "PreSize": {
+                          "X": 0.9345,
+                          "Y": 0.3775
+                        },
+                        "LeftMargin": 42.8355,
+                        "RightMargin": 13.1645,
+                        "TopMargin": 61.426,
+                        "BottomMargin": 215.574,
+                        "Tag": 123,
+                        "ActionTag": 832978975,
+                        "Size": {
+                          "X": 799.0,
+                          "Y": 168.0
+                        },
+                        "Name": "text_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_1.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 108.936
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.7393
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.2448
+                        },
+                        "PreSize": {
+                          "X": 0.4211,
+                          "Y": 0.4989
+                        },
+                        "LeftMargin": 247.5,
+                        "RightMargin": 247.5,
+                        "TopMargin": 225.064,
+                        "BottomMargin": -2.064,
+                        "Tag": 98,
+                        "ActionTag": -1715051336,
+                        "Size": {
+                          "X": 360.0,
+                          "Y": 222.0
+                        },
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 2068324139,
+                    "Size": {
+                      "X": 855.0,
+                      "Y": 445.0
+                    },
+                    "Name": "page_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 855.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1667,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 855.0,
+                    "RightMargin": 3420.0,
+                    "Tag": 125,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_2.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 63.8685,
+                          "Y": 224.0575
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0747,
+                          "Y": 0.5035
+                        },
+                        "PreSize": {
+                          "X": 0.1146,
+                          "Y": 0.4966
+                        },
+                        "LeftMargin": 63.8685,
+                        "RightMargin": 693.1315,
+                        "TopMargin": 110.4425,
+                        "BottomMargin": 113.5575,
+                        "Tag": 126,
+                        "ActionTag": 1627254150,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 221.0
+                        },
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_text_wild_scatter.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 409.4
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.92
+                        },
+                        "PreSize": {
+                          "X": 0.3544,
+                          "Y": 0.0629
+                        },
+                        "LeftMargin": 276.0,
+                        "RightMargin": 276.0,
+                        "TopMargin": 21.6,
+                        "BottomMargin": 395.4,
+                        "Tag": 129,
+                        "ActionTag": -1420350872,
+                        "Size": {
+                          "X": 303.0,
+                          "Y": 28.0
+                        },
+                        "Name": "text_title",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_page_2_text_1.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 194.5125,
+                          "Y": 297.438
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2275,
+                          "Y": 0.6684
+                        },
+                        "PreSize": {
+                          "X": 0.545,
+                          "Y": 0.1618
+                        },
+                        "LeftMargin": 194.5125,
+                        "RightMargin": 194.4875,
+                        "TopMargin": 111.562,
+                        "BottomMargin": 261.438,
+                        "Tag": 99,
+                        "ActionTag": -924510929,
+                        "Size": {
+                          "X": 466.0,
+                          "Y": 72.0
+                        },
+                        "Name": "text_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_page_2_text_2.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 194.5125,
+                          "Y": 155.038
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2275,
+                          "Y": 0.3484
+                        },
+                        "PreSize": {
+                          "X": 0.6222,
+                          "Y": 0.1101
+                        },
+                        "LeftMargin": 194.5125,
+                        "RightMargin": 128.4875,
+                        "TopMargin": 265.462,
+                        "BottomMargin": 130.538,
+                        "Tag": 100,
+                        "ActionTag": -843616074,
+                        "Size": {
+                          "X": 532.0,
+                          "Y": 49.0
+                        },
+                        "Name": "text_1",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1942271651,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 855.0,
+                      "Y": 445.0
+                    },
+                    "Name": "page_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1710.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3333,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 1710.0,
+                    "RightMargin": 2565.0,
+                    "Tag": 130,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_page_3_text_1.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 27.189,
+                          "Y": 302.7335
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0318,
+                          "Y": 0.6803
+                        },
+                        "PreSize": {
+                          "X": 0.8643,
+                          "Y": 0.3775
+                        },
+                        "LeftMargin": 27.189,
+                        "RightMargin": 88.811,
+                        "TopMargin": 58.2665,
+                        "BottomMargin": 218.7335,
+                        "Tag": 132,
+                        "ActionTag": 752872836,
+                        "Size": {
+                          "X": 739.0,
+                          "Y": 168.0
+                        },
+                        "Name": "text_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/text_free_game_tutorial.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 430.8345,
+                          "Y": 422.75
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5039,
+                          "Y": 0.95
+                        },
+                        "PreSize": {
+                          "X": 0.1942,
+                          "Y": 0.0584
+                        },
+                        "LeftMargin": 347.8345,
+                        "RightMargin": 341.1655,
+                        "TopMargin": 9.25,
+                        "BottomMargin": 409.75,
+                        "Tag": 133,
+                        "ActionTag": 623981803,
+                        "Size": {
+                          "X": 166.0,
+                          "Y": 26.0
+                        },
+                        "Name": "text_title",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_3.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 109.826
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.2468
+                        },
+                        "PreSize": {
+                          "X": 0.407,
+                          "Y": 0.4157
+                        },
+                        "LeftMargin": 253.5,
+                        "RightMargin": 253.5,
+                        "TopMargin": 242.674,
+                        "BottomMargin": 17.326,
+                        "Tag": 101,
+                        "ActionTag": 1108107594,
+                        "Size": {
+                          "X": 348.0,
+                          "Y": 185.0
+                        },
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1926264942,
+                    "ZOrder": 2,
+                    "Size": {
+                      "X": 855.0,
+                      "Y": 445.0
+                    },
+                    "Name": "page_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 2565.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 2565.0,
+                    "RightMargin": 1710.0,
+                    "Tag": 134,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_text_pay_table.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 403.17
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.906
+                        },
+                        "PreSize": {
+                          "X": 0.1754,
+                          "Y": 0.0742
+                        },
+                        "LeftMargin": 352.5,
+                        "RightMargin": 352.5,
+                        "TopMargin": 25.33,
+                        "BottomMargin": 386.67,
+                        "Tag": 135,
+                        "ActionTag": 876300089,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 33.0
+                        },
+                        "Name": "text_title",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_4.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 418.95,
+                          "Y": 193.8865
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.49,
+                          "Y": 0.4357
+                        },
+                        "PreSize": {
+                          "X": 0.6047,
+                          "Y": 0.6629
+                        },
+                        "LeftMargin": 160.45,
+                        "RightMargin": 177.55,
+                        "TopMargin": 103.6135,
+                        "BottomMargin": 46.3865,
+                        "Tag": 136,
+                        "ActionTag": 1959806275,
+                        "Size": {
+                          "X": 517.0,
+                          "Y": 295.0
+                        },
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_4_1.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 519.5835,
+                          "Y": 304.2465
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.6077,
+                          "Y": 0.6837
+                        },
+                        "PreSize": {
+                          "X": 0.0737,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 488.0835,
+                        "RightMargin": 303.9165,
+                        "TopMargin": 95.2535,
+                        "BottomMargin": 258.7465,
+                        "Tag": 102,
+                        "ActionTag": -754115089,
+                        "Size": {
+                          "X": 63.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_4_2.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 308.655,
+                          "Y": 197.9805
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.361,
+                          "Y": 0.4449
+                        },
+                        "PreSize": {
+                          "X": 0.0749,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 276.655,
+                        "RightMargin": 514.345,
+                        "TopMargin": 201.5195,
+                        "BottomMargin": 152.4805,
+                        "Tag": 103,
+                        "ActionTag": -1432333590,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_4_3.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 719.397,
+                          "Y": 196.4675
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8414,
+                          "Y": 0.4415
+                        },
+                        "PreSize": {
+                          "X": 0.0737,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 687.897,
+                        "RightMargin": 104.103,
+                        "TopMargin": 203.0325,
+                        "BottomMargin": 150.9675,
+                        "Tag": 104,
+                        "ActionTag": -28061437,
+                        "Size": {
+                          "X": 63.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_4_4.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 308.826,
+                          "Y": 84.5055
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.3612,
+                          "Y": 0.1899
+                        },
+                        "PreSize": {
+                          "X": 0.0877,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 271.326,
+                        "RightMargin": 508.674,
+                        "TopMargin": 314.9945,
+                        "BottomMargin": 39.0055,
+                        "Tag": 105,
+                        "ActionTag": 963994488,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_3",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_4_5.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 722.3895,
+                          "Y": 84.5055
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8449,
+                          "Y": 0.1899
+                        },
+                        "PreSize": {
+                          "X": 0.0749,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 690.3895,
+                        "RightMargin": 100.6105,
+                        "TopMargin": 314.9945,
+                        "BottomMargin": 39.0055,
+                        "Tag": 106,
+                        "ActionTag": -220369661,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_4",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1349890088,
+                    "ZOrder": 3,
+                    "Size": {
+                      "X": 855.0,
+                      "Y": 445.0
+                    },
+                    "Name": "page_3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": -276,
+                    "Scale9OriginY": -147,
+                    "Scale9Width": 552,
+                    "Scale9Height": 294,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 3420.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6667,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 3420.0,
+                    "RightMargin": 855.0,
+                    "Tag": 139,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_text_pay_table.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 403.17
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.906
+                        },
+                        "PreSize": {
+                          "X": 0.1754,
+                          "Y": 0.0742
+                        },
+                        "LeftMargin": 352.5,
+                        "RightMargin": 352.5,
+                        "TopMargin": 25.33,
+                        "BottomMargin": 386.67,
+                        "Tag": 140,
+                        "ActionTag": -1136238066,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 33.0
+                        },
+                        "Name": "text_title",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_5.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 417.1545,
+                          "Y": 207.0585
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4879,
+                          "Y": 0.4653
+                        },
+                        "PreSize": {
+                          "X": 0.6047,
+                          "Y": 0.6629
+                        },
+                        "LeftMargin": 158.6545,
+                        "RightMargin": 179.3455,
+                        "TopMargin": 90.4415,
+                        "BottomMargin": 59.5585,
+                        "Tag": 107,
+                        "ActionTag": 788729818,
+                        "Size": {
+                          "X": 517.0,
+                          "Y": 295.0
+                        },
+                        "Name": "img",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_5_1.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 520.6095,
+                          "Y": 311.7225
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.6089,
+                          "Y": 0.7005
+                        },
+                        "PreSize": {
+                          "X": 0.0877,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 483.1095,
+                        "RightMargin": 296.8905,
+                        "TopMargin": 87.7775,
+                        "BottomMargin": 266.2225,
+                        "Tag": 108,
+                        "ActionTag": -277088212,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_5_2.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 306.8595,
+                          "Y": 209.684
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.3589,
+                          "Y": 0.4712
+                        },
+                        "PreSize": {
+                          "X": 0.0749,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 274.8595,
+                        "RightMargin": 516.1405,
+                        "TopMargin": 189.816,
+                        "BottomMargin": 164.184,
+                        "Tag": 109,
+                        "ActionTag": 215265557,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_5_3.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 723.2445,
+                          "Y": 211.019
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8459,
+                          "Y": 0.4742
+                        },
+                        "PreSize": {
+                          "X": 0.0749,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 691.2445,
+                        "RightMargin": 99.7555,
+                        "TopMargin": 188.481,
+                        "BottomMargin": 165.519,
+                        "Tag": 110,
+                        "ActionTag": -2001521926,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_5_4.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 311.3055,
+                          "Y": 97.6775
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.3641,
+                          "Y": 0.2195
+                        },
+                        "PreSize": {
+                          "X": 0.0877,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 273.8055,
+                        "RightMargin": 506.1945,
+                        "TopMargin": 301.8225,
+                        "BottomMargin": 52.1775,
+                        "Tag": 111,
+                        "ActionTag": -1411467715,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_3",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_5_5.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 726.237,
+                          "Y": 96.1645
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8494,
+                          "Y": 0.2161
+                        },
+                        "PreSize": {
+                          "X": 0.0877,
+                          "Y": 0.2045
+                        },
+                        "LeftMargin": 688.737,
+                        "RightMargin": 91.263,
+                        "TopMargin": 303.3355,
+                        "BottomMargin": 50.6645,
+                        "Tag": 112,
+                        "ActionTag": 564608254,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 91.0
+                        },
+                        "Name": "img_4",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -646778587,
+                    "ZOrder": 4,
+                    "Size": {
+                      "X": 855.0,
+                      "Y": 445.0
+                    },
+                    "Name": "page_4",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": -276,
+                    "Scale9OriginY": -147,
+                    "Scale9Width": 552,
+                    "Scale9Height": 294,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 4275.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8333,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 4275.0,
+                    "Tag": 113,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_text_game_rules.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5,
+                          "Y": 389.197
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8746
+                        },
+                        "PreSize": {
+                          "X": 0.2152,
+                          "Y": 0.0607
+                        },
+                        "LeftMargin": 335.5,
+                        "RightMargin": 335.5,
+                        "TopMargin": 42.303,
+                        "BottomMargin": 375.697,
+                        "Tag": 114,
+                        "ActionTag": 281749145,
+                        "Size": {
+                          "X": 184.0,
+                          "Y": 27.0
+                        },
+                        "Name": "text_title",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/localize/en/tutorial_page_6_text_1.png",
+                          "Plist": "empire_spritesheets/empire_tutorial_text.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 419.121,
+                          "Y": 210.04
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4902,
+                          "Y": 0.472
+                        },
+                        "PreSize": {
+                          "X": 0.6456,
+                          "Y": 0.4854
+                        },
+                        "LeftMargin": 143.121,
+                        "RightMargin": 159.879,
+                        "TopMargin": 126.96,
+                        "BottomMargin": 102.04,
+                        "Tag": 115,
+                        "ActionTag": 680544716,
+                        "Size": {
+                          "X": 552.0,
+                          "Y": 216.0
+                        },
+                        "Name": "text_0",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -113617706,
+                    "ZOrder": 5,
+                    "Size": {
+                      "X": 855.0,
+                      "Y": 445.0
+                    },
+                    "Name": "page_5",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 25712628,
+                "Size": {
+                  "X": 855.0,
+                  "Y": 445.0
+                },
+                "Name": "page_view",
+                "ctype": "PageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 450.0,
+                  "Y": 10.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0216
+                },
+                "PercentHeightEnable": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.1722,
+                  "Y": 0.06
+                },
+                "LeftMargin": 372.51,
+                "RightMargin": 372.51,
+                "TopMargin": 459.2,
+                "BottomMargin": 10.8,
+                "Tag": 48,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.8486,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.07,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 133.2828,
+                    "Tag": 53,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_index.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 10.8486,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4148,
+                          "Y": 0.3
+                        },
+                        "LeftMargin": 6.3486,
+                        "RightMargin": 6.3486,
+                        "TopMargin": 10.5,
+                        "BottomMargin": 10.5,
+                        "Tag": 54,
+                        "ActionTag": 2058661201,
+                        "Size": {
+                          "X": 9.0,
+                          "Y": 9.0
+                        },
+                        "Name": "Sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1175855873,
+                    "Size": {
+                      "X": 21.6972,
+                      "Y": 30.0
+                    },
+                    "Name": "button_page_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 38.745,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.25,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 27.8964,
+                    "RightMargin": 105.3864,
+                    "Tag": 55,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_index.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.6007,
+                          "ScaleY": 0.3709
+                        },
+                        "Position": {
+                          "X": 11.7555,
+                          "Y": 13.605
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5418,
+                          "Y": 0.4535
+                        },
+                        "PreSize": {
+                          "X": 0.4148,
+                          "Y": 0.3
+                        },
+                        "LeftMargin": 6.3492,
+                        "RightMargin": 6.348,
+                        "TopMargin": 10.7331,
+                        "BottomMargin": 10.2669,
+                        "Tag": 56,
+                        "ActionTag": -1194280083,
+                        "Size": {
+                          "X": 9.0,
+                          "Y": 9.0
+                        },
+                        "Name": "Sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1906551990,
+                    "Size": {
+                      "X": 21.6972,
+                      "Y": 30.0
+                    },
+                    "Name": "button_page_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.6414,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 55.7928,
+                    "RightMargin": 77.49,
+                    "Tag": 57,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_index.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 10.8486,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4148,
+                          "Y": 0.3
+                        },
+                        "LeftMargin": 6.3486,
+                        "RightMargin": 6.3486,
+                        "TopMargin": 10.5,
+                        "BottomMargin": 10.5,
+                        "Tag": 58,
+                        "ActionTag": -861066355,
+                        "Size": {
+                          "X": 9.0,
+                          "Y": 9.0
+                        },
+                        "Name": "Sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -116014816,
+                    "Size": {
+                      "X": 21.6972,
+                      "Y": 30.0
+                    },
+                    "Name": "button_page_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.5378,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.61,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 83.6892,
+                    "RightMargin": 49.5936,
+                    "Tag": 59,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_index.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 10.8486,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4148,
+                          "Y": 0.3
+                        },
+                        "LeftMargin": 6.3486,
+                        "RightMargin": 6.3486,
+                        "TopMargin": 10.5,
+                        "BottomMargin": 10.5,
+                        "Tag": 60,
+                        "ActionTag": 849448015,
+                        "Size": {
+                          "X": 9.0,
+                          "Y": 9.0
+                        },
+                        "Name": "Sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -59043145,
+                    "Size": {
+                      "X": 21.6972,
+                      "Y": 30.0
+                    },
+                    "Name": "button_page_3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 122.4342,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.79,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 111.5856,
+                    "RightMargin": 21.6972,
+                    "Tag": 61,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_index.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 10.8486,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4148,
+                          "Y": 0.3
+                        },
+                        "LeftMargin": 6.3486,
+                        "RightMargin": 6.3486,
+                        "TopMargin": 10.5,
+                        "BottomMargin": 10.5,
+                        "Tag": 62,
+                        "ActionTag": 485824744,
+                        "Size": {
+                          "X": 9.0,
+                          "Y": 9.0
+                        },
+                        "Name": "Sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1360762165,
+                    "Size": {
+                      "X": 21.6972,
+                      "Y": 30.0
+                    },
+                    "Name": "button_page_4",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 150.3306,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.97,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 139.482,
+                    "RightMargin": -6.1992,
+                    "Tag": 63,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "empire_img/tutorial/page_index.png",
+                          "Plist": "empire_spritesheets/empire_sprites_tutorial.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 10.8486,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4148,
+                          "Y": 0.3
+                        },
+                        "LeftMargin": 6.3486,
+                        "RightMargin": 6.3486,
+                        "TopMargin": 10.5,
+                        "BottomMargin": 10.5,
+                        "Tag": 64,
+                        "ActionTag": -267746194,
+                        "Size": {
+                          "X": 9.0,
+                          "Y": 9.0
+                        },
+                        "Name": "Sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1028878443,
+                    "Size": {
+                      "X": 21.6972,
+                      "Y": 30.0
+                    },
+                    "Name": "button_page_5",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1640147686,
+                "Size": {
+                  "X": 154.98,
+                  "Y": 30.0
+                },
+                "Name": "button_pages",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 161521633,
+            "Size": {
+              "X": 900.0,
+              "Y": 500.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "empire_sprites_common.plist",
+        "empire_sprites_common.png",
+        "empire_spritesheets/empire_sprites_tutorial.plist",
+        "empire_spritesheets/empire_sprites_tutorial.png",
+        "empire_spritesheets/empire_tutorial_text.plist",
+        "empire_spritesheets/empire_tutorial_text.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

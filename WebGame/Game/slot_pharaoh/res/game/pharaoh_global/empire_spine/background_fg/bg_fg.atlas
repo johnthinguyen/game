@@ -1,0 +1,62 @@
+
+bg_fg.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+MainScene/BG_FG
+  rotate: false
+  xy: 2, 343
+  size: 800, 640
+  orig: 800, 640
+  offset: 0, 0
+  index: -1
+MainScene/Background/FG_Gold
+  rotate: true
+  xy: 804, 513
+  size: 470, 163
+  orig: 470, 163
+  offset: 0, 0
+  index: -1
+MainScene/Background/FG_GoldLight
+  rotate: true
+  xy: 804, 207
+  size: 304, 145
+  orig: 304, 145
+  offset: 0, 0
+  index: -1
+MainScene/Background/FG_Light01
+  rotate: true
+  xy: 238, 153
+  size: 100, 289
+  orig: 100, 289
+  offset: 0, 0
+  index: -1
+MainScene/Background/FG_Light02
+  rotate: true
+  xy: 238, 255
+  size: 86, 366
+  orig: 86, 366
+  offset: 0, 0
+  index: -1
+MainScene/Background/FG_Statue
+  rotate: true
+  xy: 2, 213
+  size: 128, 234
+  orig: 128, 234
+  offset: 0, 0
+  index: -1
+MainScene/Background/Star
+  rotate: false
+  xy: 951, 479
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MainScene/Background/eki0002
+  rotate: false
+  xy: 606, 213
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+coin2.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cr
+  rotate: false
+  xy: 2, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

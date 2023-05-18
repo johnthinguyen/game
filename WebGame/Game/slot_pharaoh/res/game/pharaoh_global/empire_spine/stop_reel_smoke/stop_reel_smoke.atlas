@@ -1,0 +1,76 @@
+
+stop_reel_smoke.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FX/Smoke_00
+  rotate: false
+  xy: 2, 308
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_01
+  rotate: true
+  xy: 124, 248
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_02
+  rotate: true
+  xy: 2, 186
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_03
+  rotate: false
+  xy: 64, 186
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_04
+  rotate: true
+  xy: 186, 248
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_05
+  rotate: true
+  xy: 186, 126
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_06
+  rotate: true
+  xy: 2, 64
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_07
+  rotate: true
+  xy: 64, 64
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_08
+  rotate: false
+  xy: 126, 64
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+FX/Smoke_09
+  rotate: false
+  xy: 2, 2
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1

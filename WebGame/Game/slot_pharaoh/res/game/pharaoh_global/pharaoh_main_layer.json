@@ -1,0 +1,1748 @@
+{
+  "ID": "ba07f3fa-b6d1-4d81-9340-c6be7a15be2b",
+  "Version": "3.10.0.0",
+  "Name": "pharaoh_main_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 40,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 50,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 41,
+                "ActionTag": 549160577,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 14,
+                "ActionTag": -756620045,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "cover",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "pharaoh_img/main_img/board.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 331,
+                "Scale9OriginY": 214,
+                "Scale9Width": 344,
+                "Scale9Height": 222,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.7,
+                  "Y": 0.8
+                },
+                "LeftMargin": 192.0,
+                "RightMargin": 192.0,
+                "TopMargin": 72.0,
+                "BottomMargin": 72.0,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 448.0,
+                      "Y": 299.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.52
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.765,
+                      "Y": 0.76
+                    },
+                    "LeftMargin": 105.28,
+                    "RightMargin": 105.28,
+                    "TopMargin": 57.6,
+                    "BottomMargin": 80.64,
+                    "Tag": 43,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.8915,
+                          "Y": 218.88
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.083,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1667,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": -0.2399,
+                        "RightMargin": 571.4171,
+                        "Tag": 44,
+                        "ActionTag": -345264473,
+                        "Size": {
+                          "X": 114.2629,
+                          "Y": 437.76
+                        },
+                        "Name": "panel_reel_0",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 171.0858,
+                          "Y": 218.88
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2496,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1667,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 113.9544,
+                        "RightMargin": 457.2228,
+                        "Tag": 45,
+                        "ActionTag": 893010727,
+                        "Size": {
+                          "X": 114.2629,
+                          "Y": 437.76
+                        },
+                        "Name": "panel_reel_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 285.3487,
+                          "Y": 219.7555
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4163,
+                          "Y": 0.502
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1667,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 228.2172,
+                        "RightMargin": 342.9599,
+                        "TopMargin": -0.8755,
+                        "BottomMargin": 0.8755,
+                        "Tag": 46,
+                        "ActionTag": -1337753280,
+                        "Size": {
+                          "X": 114.2629,
+                          "Y": 437.76
+                        },
+                        "Name": "panel_reel_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 399.6115,
+                          "Y": 218.88
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.583,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1667,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 342.4801,
+                        "RightMargin": 228.6971,
+                        "Tag": 47,
+                        "ActionTag": -1864061986,
+                        "Size": {
+                          "X": 114.2629,
+                          "Y": 437.76
+                        },
+                        "Name": "panel_reel_3",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 514.08,
+                          "Y": 218.88
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.75,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1667,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 456.9486,
+                        "RightMargin": 114.2286,
+                        "Tag": 48,
+                        "ActionTag": -1870843175,
+                        "Size": {
+                          "X": 114.2629,
+                          "Y": 437.76
+                        },
+                        "Name": "panel_reel_4",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 628.5485,
+                          "Y": 218.88
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.917,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.1667,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 571.4171,
+                        "RightMargin": -0.2399,
+                        "Tag": 49,
+                        "ActionTag": 1447075650,
+                        "Size": {
+                          "X": 114.2629,
+                          "Y": 437.76
+                        },
+                        "Name": "panel_reel_5",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 268969408,
+                    "Size": {
+                      "X": 685.44,
+                      "Y": 437.76
+                    },
+                    "Name": "panel_reels_container",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 255.36,
+                      "Y": 560.7936
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.285,
+                      "Y": 0.9736
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.0781
+                    },
+                    "LeftMargin": 76.16,
+                    "RightMargin": 461.44,
+                    "TopMargin": -7.2936,
+                    "BottomMargin": 538.2936,
+                    "Tag": 15,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 179.2,
+                          "Y": 22.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 24,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "pharaoh_img/main_img/txt_freespin.png",
+                              "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 132.608,
+                              "Y": 19.8
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.37,
+                              "Y": 0.44
+                            },
+                            "PreSize": {
+                              "X": 0.3795,
+                              "Y": 0.5778
+                            },
+                            "LeftMargin": 64.608,
+                            "RightMargin": 157.792,
+                            "TopMargin": 12.2,
+                            "BottomMargin": 6.8,
+                            "Tag": 23,
+                            "ActionTag": 1971001899,
+                            "Size": {
+                              "X": 136.0,
+                              "Y": 26.0
+                            },
+                            "Name": "free_spin_sprite",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "LabelText": "10",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "pharaoh_font/text_num_fg.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 35.84,
+                              "Y": 21.15
+                            },
+                            "Scale": {
+                              "ScaleX": 0.85,
+                              "ScaleY": 0.85
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.1,
+                              "Y": 0.47
+                            },
+                            "PreSize": {
+                              "X": 0.159,
+                              "Y": 0.8889
+                            },
+                            "LeftMargin": 7.34,
+                            "RightMargin": 294.06,
+                            "TopMargin": 3.85,
+                            "BottomMargin": 1.15,
+                            "Tag": 24,
+                            "ActionTag": -1346604063,
+                            "Size": {
+                              "X": 57.0,
+                              "Y": 40.0
+                            },
+                            "Name": "text_free_spins",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
+                        "ActionTag": 1989854463,
+                        "Size": {
+                          "X": 358.4,
+                          "Y": 45.0
+                        },
+                        "Name": "panel_fg",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "pharaoh_img/main_img/pharaoh.png",
+                          "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 97.91,
+                          "Y": 21.4
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2732,
+                          "Y": 0.4756
+                        },
+                        "PreSize": {
+                          "X": 0.4771,
+                          "Y": 0.7333
+                        },
+                        "LeftMargin": 12.41,
+                        "RightMargin": 174.99,
+                        "TopMargin": 7.1,
+                        "BottomMargin": 4.9,
+                        "Tag": 20,
+                        "ActionTag": 1683068837,
+                        "Size": {
+                          "X": 171.0,
+                          "Y": 33.0
+                        },
+                        "Name": "pharaoh_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "LabelText": "117649",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "pharaoh_font/num_way.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 247.296,
+                          "Y": 19.8
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.69,
+                          "Y": 0.44
+                        },
+                        "PreSize": {
+                          "X": 0.2623,
+                          "Y": 0.4889
+                        },
+                        "LeftMargin": 200.296,
+                        "RightMargin": 64.104,
+                        "TopMargin": 14.2,
+                        "BottomMargin": 8.8,
+                        "Tag": 21,
+                        "ActionTag": 1336997223,
+                        "Size": {
+                          "X": 94.0,
+                          "Y": 22.0
+                        },
+                        "Name": "value_win_lines",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "pharaoh_img/main_img/ways.png",
+                          "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 322.56,
+                          "Y": 18.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.9,
+                          "Y": 0.4
+                        },
+                        "PreSize": {
+                          "X": 0.1562,
+                          "Y": 0.4222
+                        },
+                        "LeftMargin": 294.56,
+                        "RightMargin": 7.84,
+                        "TopMargin": 17.5,
+                        "BottomMargin": 8.5,
+                        "Tag": 22,
+                        "ActionTag": -1395570672,
+                        "Size": {
+                          "X": 56.0,
+                          "Y": 19.0
+                        },
+                        "Name": "way_sprite",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 419846386,
+                    "Size": {
+                      "X": 358.4,
+                      "Y": 45.0
+                    },
+                    "Name": "panel_win_lines",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "pharaoh_img/main_img/collection_info.png",
+                      "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 56,
+                    "Scale9OriginY": 116,
+                    "Scale9Width": 59,
+                    "Scale9Height": 120,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 371.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.645
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.14,
+                      "Y": 0.6
+                    },
+                    "LeftMargin": -62.72,
+                    "RightMargin": 833.28,
+                    "TopMargin": 31.6801,
+                    "BottomMargin": 198.72,
+                    "Tag": 16,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 62.72,
+                          "Y": 273.024
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.79
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 62.72,
+                        "RightMargin": 62.72,
+                        "TopMargin": 72.576,
+                        "BottomMargin": 273.024,
+                        "Tag": 18,
+                        "ActionTag": -1198370090,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "collection_node",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "LabelText": "117649",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "pharaoh_font/colection_fg_num.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 62.72,
+                          "Y": 117.504
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.34
+                        },
+                        "PreSize": {
+                          "X": 0.9566,
+                          "Y": 0.0926
+                        },
+                        "LeftMargin": 2.72,
+                        "RightMargin": 2.72,
+                        "TopMargin": 212.096,
+                        "BottomMargin": 101.504,
+                        "Tag": 19,
+                        "ActionTag": 972509208,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 32.0
+                        },
+                        "Name": "line_up_num",
+                        "ctype": "TextBMFontObjectData"
+                      }
+                    ],
+                    "ActionTag": 675253218,
+                    "Size": {
+                      "X": 125.44,
+                      "Y": 345.6
+                    },
+                    "Name": "panel_free_game_info",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 696.192,
+                      "Y": 559.296
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.777,
+                      "Y": 0.971
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 0.29,
+                      "Y": 0.0729
+                    },
+                    "LeftMargin": 566.272,
+                    "RightMargin": 69.8881,
+                    "TopMargin": -4.296,
+                    "BottomMargin": 538.296,
+                    "Tag": 25,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "pharaoh_img/multiplier/light_item_multiple.png",
+                          "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 32.48,
+                          "Y": 21.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.125,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2579,
+                          "Y": 1.1429
+                        },
+                        "LeftMargin": -1.02,
+                        "RightMargin": 193.86,
+                        "TopMargin": -3.0,
+                        "BottomMargin": -3.0,
+                        "Tag": 34,
+                        "ActionTag": -343517453,
+                        "Size": {
+                          "X": 67.0,
+                          "Y": 48.0
+                        },
+                        "Name": "light_item",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 32.48,
+                          "Y": 21.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.125,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.25,
+                          "Y": 1.0
+                        },
+                        "RightMargin": 194.88,
+                        "Tag": 26,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "pharaoh_img/multiplier/x1_gold.png",
+                              "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.48,
+                              "Y": 21.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5696,
+                              "Y": 0.7381
+                            },
+                            "LeftMargin": 13.98,
+                            "RightMargin": 13.98,
+                            "TopMargin": 5.5,
+                            "BottomMargin": 5.5,
+                            "Tag": 30,
+                            "ActionTag": -997066307,
+                            "Size": {
+                              "X": 37.0,
+                              "Y": 31.0
+                            },
+                            "Name": "sprite_item",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -838377319,
+                        "Size": {
+                          "X": 64.96,
+                          "Y": 42.0
+                        },
+                        "Name": "item_0",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 97.44,
+                          "Y": 21.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.375,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.25,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 64.96,
+                        "RightMargin": 129.92,
+                        "Tag": 27,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "pharaoh_img/multiplier/x2.png",
+                              "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.48,
+                              "Y": 21.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.6004,
+                              "Y": 0.5952
+                            },
+                            "LeftMargin": 12.98,
+                            "RightMargin": 12.98,
+                            "TopMargin": 8.5,
+                            "BottomMargin": 8.5,
+                            "Tag": 31,
+                            "ActionTag": -174562132,
+                            "Size": {
+                              "X": 39.0,
+                              "Y": 25.0
+                            },
+                            "Name": "sprite_item",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -582044606,
+                        "Size": {
+                          "X": 64.96,
+                          "Y": 42.0
+                        },
+                        "Name": "item_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 162.4,
+                          "Y": 21.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.625,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.25,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 129.92,
+                        "RightMargin": 64.96,
+                        "Tag": 28,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "pharaoh_img/multiplier/x3.png",
+                              "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.48,
+                              "Y": 21.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5388,
+                              "Y": 0.619
+                            },
+                            "LeftMargin": 14.98,
+                            "RightMargin": 14.98,
+                            "TopMargin": 8.0,
+                            "BottomMargin": 8.0,
+                            "Tag": 32,
+                            "ActionTag": -878154224,
+                            "Size": {
+                              "X": 35.0,
+                              "Y": 26.0
+                            },
+                            "Name": "sprite_item",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 587204849,
+                        "Size": {
+                          "X": 64.96,
+                          "Y": 42.0
+                        },
+                        "Name": "item_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 227.36,
+                          "Y": 21.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.875,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.25,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 194.88,
+                        "Tag": 29,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "pharaoh_img/multiplier/x5.png",
+                              "Plist": "pharaoh_spritesheets/pharaoh_spritesheets.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.48,
+                              "Y": 21.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5696,
+                              "Y": 0.5714
+                            },
+                            "LeftMargin": 13.98,
+                            "RightMargin": 13.98,
+                            "TopMargin": 9.0,
+                            "BottomMargin": 9.0,
+                            "Tag": 33,
+                            "ActionTag": 1289821753,
+                            "Size": {
+                              "X": 37.0,
+                              "Y": 24.0
+                            },
+                            "Name": "sprite_item",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 1859667836,
+                        "Size": {
+                          "X": 64.96,
+                          "Y": 42.0
+                        },
+                        "Name": "item_3",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1832973901,
+                    "Size": {
+                      "X": 259.84,
+                      "Y": 42.0
+                    },
+                    "Name": "panel_multiplier",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1634715361,
+                "Size": {
+                  "X": 896.0,
+                  "Y": 576.0
+                },
+                "Name": "board",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 720.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "BottomMargin": 720.0,
+                "Tag": 51,
+                "ActionTag": 1423505128,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "header",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "TopMargin": 720.0,
+                "Tag": 52,
+                "ActionTag": 151424677,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "footer",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1328065298,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "main_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "pharaoh_font/colection_fg_num.fnt",
+        "pharaoh_font/colection_fg_num.png",
+        "pharaoh_font/num_way.fnt",
+        "pharaoh_font/num_way.png",
+        "pharaoh_font/text_num_fg.fnt",
+        "pharaoh_font/text_num_fg.png",
+        "pharaoh_img/main_img/board.png",
+        "pharaoh_spritesheets/pharaoh_spritesheets.plist",
+        "pharaoh_spritesheets/pharaoh_spritesheets.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

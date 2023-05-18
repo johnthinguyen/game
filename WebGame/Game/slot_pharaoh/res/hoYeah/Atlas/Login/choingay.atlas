@@ -1,0 +1,48 @@
+
+choingay.png
+size: 314,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 2
+  size: 150, 162
+  orig: 150, 162
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 217, 131
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 166, 102
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 166, 64
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ca
+  rotate: false
+  xy: 2, 154
+  size: 213, 158
+  orig: 213, 158
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 217, 211
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1

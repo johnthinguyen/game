@@ -1,0 +1,76 @@
+
+extra_spin.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bigwin/Add_Spin/Add_Spin_BG
+  rotate: true
+  xy: 260, 191
+  size: 123, 147
+  orig: 123, 147
+  offset: 0, 0
+  index: -1
+FX/1f_star_6
+  rotate: false
+  xy: 226, 316
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/Bg_Black
+  rotate: false
+  xy: 226, 312
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+FX/BigWin_BG
+  rotate: false
+  xy: 2, 308
+  size: 222, 266
+  orig: 222, 266
+  offset: 0, 0
+  index: -1
+FX/Exp_Light
+  rotate: false
+  xy: 226, 446
+  size: 218, 128
+  orig: 218, 128
+  offset: 0, 0
+  index: -1
+FX/GoldRing_W
+  rotate: false
+  xy: 2, 50
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+FX/Light_02
+  rotate: false
+  xy: 356, 316
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/Light_05
+  rotate: false
+  xy: 446, 446
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/Light_12
+  rotate: false
+  xy: 486, 380
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+FX/SmallSpots_02
+  rotate: false
+  xy: 409, 186
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

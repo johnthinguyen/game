@@ -1,0 +1,200 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : true,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions"],
+
+    "jsList" : [
+        "src/libs/schema.js",
+        "src/common/macros.js",
+        "src/common/defines.js",
+        "src/common/resource.js",
+        "src/common/polyfills.js",
+
+        "src/libs/jpeg.js",
+        "src/libs/utf8.js",
+        "src/libs/lodash.js",
+
+        "src/data/dictionary.js",
+
+        "src/crypto/B32.js",
+        "src/crypto/B64.js",
+        "src/crypto/MD5.js",
+        "src/crypto/RC4.js",
+        "src/crypto/SHA1.js",
+
+        "src/pool/node_pool.js",
+
+        "src/jsb/defines/jsb_portal_watcher_api.js",
+        "src/jsb/defines/jsb_portal_manager_api.js",
+        "src/jsb/defines/jsb_portal_helper_api.js",
+        "src/jsb/defines/jsb_portal_event_manager_api.js",
+
+
+        "src/jsb/jsb_portal_watcher.js",
+        "src/jsb/jsb_portal_manager.js",
+        "src/jsb/jsb_portal_event_manager.js",
+
+        "src/jsb/jsb_portal_helper_defines.js",
+        "src/jsb/jsb_portal_helper.js",
+        "src/jsb/jsb_portal_helper_extensions.js",
+        "src/jsb/jsb_portal_helper_overrides.js",
+        "src/jsb/jsb_portal_helper_template.js",
+        "src/jsb/jsb_portal_helper_watcher.js",
+        "src/jsb/jsb_portal_helper_match.js",
+
+        "src/framework/module.js",
+        "src/framework/promise.js",
+        "src/framework/observable.js",
+        "src/framework/event_stream.js",
+        "src/framework/event_emitter.js",
+        "src/framework/state_machine.js",
+        "src/framework/listener_manager.js",
+
+        "src/localize/lang/en.js",
+        "src/localize/lang/vi.js",
+        "src/localize/lang/kh.js",
+        "src/localize/lang/zh.js",
+        "src/localize/localize.js",
+
+        "src/utils/game_utils.js",
+        "src/utils/node_utils.js",
+        "src/utils/math_utils.js",
+        "src/utils/audio_utils.js",
+        "src/utils/crypto_utils.js",
+        "src/utils/string_utils.js",
+        "src/webservice/error_codes.js",
+        "src/webservice/http_request.js",
+        "src/webservice/web_service_config.js",
+        "src/webservice/web_service.js",
+
+        "src/kingserver/protocol/king_json_keys.js",
+        "src/kingserver/protocol/king_protocols.js",
+        "src/kingserver/protocol/king_beta.js",
+
+        "src/kingserver/models/king_user_info.js",
+        "src/kingserver/models/king_room_info.js",
+
+        "src/kingserver/controllers/base_controller.js",
+        "src/kingserver/controllers/king_controller.js",
+
+        "src/kingserver/managers/king_login_manager.js",
+        "src/kingserver/managers/king_lobby_manager.js",
+        "src/kingserver/managers/king_room_manager.js",
+
+        "src/kingserver/components/king_login_scene.js",
+        "src/kingserver/components/king_ping_widget.js",
+
+        "src/widgets/toggle_button.js",
+        "src/widgets/page_navigator.js",
+        "src/widgets/popup_abstract.js",
+        "src/widgets/popup_waiting.js",
+        "src/widgets/game_prompt.js",
+
+        "src/scenes/debug_scene.js",
+
+        "src/reportbugs/TaskResizeImage.js",
+        "src/reportbugs/TaskFlipImage.js",
+        "src/reportbugs/TaskCompressImage.js",
+        "src/reportbugs/TaskEncodeImage.js",
+        "src/reportbugs/TaskEncodeBase64.js",
+        "src/reportbugs/ScreenCaptureProgress.js",
+        "src/reportbugs/ReportBugConfig.js",
+        "src/reportbugs/ReportBugLocalize.js",
+        "src/reportbugs/ReportBugButton.js",
+        "src/reportbugs/ReportBugReasonSelector.js",
+
+        "src/extensions/base/FloaterConfig.js",
+        "src/extensions/base/FloaterManager.js",
+
+        "src/webcombine/WebHelper.js",
+
+        "src/game/pharaoh_global/slot_core/slot_utils.js",
+        "src/game/pharaoh_global/slot_core/slot_resource.js",
+        "src/game/pharaoh_global/slot_core/slot_popup_waiting.js",
+        "src/game/pharaoh_global/slot_core/slot_popup_prompt.js",
+        "src/game/pharaoh_global/slot_core/slot_popup_controller.js",
+        "src/game/pharaoh_global/slot_core/slot_notify_auto.js",
+        "src/game/pharaoh_global/slot_core/slot_header.js",
+        "src/game/pharaoh_global/slot_core/slot_footer.js",
+        "src/game/pharaoh_global/slot_core/slot_core.js",
+
+        "src/game/pharaoh_global/utils/button_utils.js",
+        "src/game/pharaoh_global/utils/core_utils.js",
+        "src/game/pharaoh_global/utils/image_utils.js",
+        "src/game/pharaoh_global/utils/text_utils.js",
+
+        "src/game/pharaoh_global/core/audio_handler.js",
+        "src/game/pharaoh_global/core/resource.js",
+        "src/game/pharaoh_global/core/animation.js",
+        "src/game/pharaoh_global/core/commander.js",
+        "src/game/pharaoh_global/core/login_handler.js",
+    
+        "src/game/pharaoh_global/views/view_style.js",
+    
+        "src/game/pharaoh_global/kingslot/king_slot_schema.js",
+        "src/game/pharaoh_global/kingslot/king_slot_commands.js",
+        "src/game/pharaoh_global/kingslot/king_login_events.js",
+    
+        "src/game/pharaoh_global/kingslot/king_logic.js",
+        "src/game/pharaoh_global/kingslot/king_connector.js",
+        "src/game/pharaoh_global/kingslot/king_slot_controller.js",
+        "src/game/pharaoh_global/kingslot/king_slot_login_manager.js",
+        
+        "src/game/pharaoh_global/core/slot_rule.js",
+        "src/game/pharaoh_global/core/slot_network.js",
+        "src/game/pharaoh_global/core/slot_manager.js",
+
+        "src/game/pharaoh_global/resource.js",
+    
+        "src/game/pharaoh_global/lang/en.js",
+        "src/game/pharaoh_global/lang/kh.js",
+        "src/game/pharaoh_global/lang/my.js",
+        "src/game/pharaoh_global/lang/ph.js",
+        "src/game/pharaoh_global/lang/th.js",
+        "src/game/pharaoh_global/lang/vi.js",
+        "src/game/pharaoh_global/lang/zh.js",
+
+        "src/game/pharaoh_global/states/exit_free_game_state.js",
+        "src/game/pharaoh_global/states/start_free_game_state.js",
+        "src/game/pharaoh_global/states/spinning_state.js",
+        "src/game/pharaoh_global/states/show_bigwin_state.js",
+        "src/game/pharaoh_global/states/highlight_win_items_state.js",
+        "src/game/pharaoh_global/states/highlight_extra_spin_state.js",
+        "src/game/pharaoh_global/states/handle_free_game_result_state.js",
+        "src/game/pharaoh_global/states/idle_free_game_state.js",
+        "src/game/pharaoh_global/states/handle_result_state.js",
+        "src/game/pharaoh_global/states/idle_state.js",
+        "src/game/pharaoh_global/states/handle_first_spin_state.js",
+        "src/game/pharaoh_global/states/initialize_state.js",
+
+        "src/game/pharaoh_global/views/effects/effect_bigwin.js",
+        "src/game/pharaoh_global/views/effects/effect_coin_fly.js",
+        "src/game/pharaoh_global/views/effects/effect_extra_spin.js",
+        "src/game/pharaoh_global/views/effects/effect_free_game_win_coin.js",
+        "src/game/pharaoh_global/views/effects/effect_level_up.js",
+        "src/game/pharaoh_global/views/effects/effect_start_free_game.js",
+
+        "src/game/pharaoh_global/views/popups/popup_jackpot.js",
+        "src/game/pharaoh_global/views/popups/popup_tutorial.js",
+
+        "src/game/pharaoh_global/views/slots/item.js",
+        "src/game/pharaoh_global/views/slots/slot_reel_item.js",
+        "src/game/pharaoh_global/views/slots/slot_board_content.js",
+
+        "src/game/pharaoh_global/views/components/background.js",
+
+        "src/game/pharaoh_global/views/scenes/background_loading_layer.js",
+        "src/game/pharaoh_global/views/scenes/main_scene.js",
+        "src/game/pharaoh_global/views/scenes/login_scene.js",
+        
+        "src/game/pharaoh_global/slot_pharaoh.js"
+    ]
+}

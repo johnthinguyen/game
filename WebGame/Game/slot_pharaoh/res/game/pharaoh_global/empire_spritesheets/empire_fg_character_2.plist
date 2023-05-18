@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>empire_anim/fg_end_character/show/sprite_24.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_25.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,635},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_26.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1270},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_27.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,0},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_28.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1071,0},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_29.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,436},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_30.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,1071},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_31.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,436},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_32.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1507,436},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_33.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,872},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_34.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1507,1071},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+			<key>empire_anim/fg_end_character/show/sprite_35.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,1308},{436,635}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{436,635}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>empire_fg_character_2.png</string>
+			<key>realTextureFileName</key>
+			<string>empire_fg_character_2.png</string>
+			<key>size</key>
+			<string>{1943,1905}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1943</integer>
+			<key>height</key>
+			<integer>1905</integer>
+		</dict>
+	</dict>
+</plist>

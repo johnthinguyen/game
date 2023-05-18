@@ -1,0 +1,526 @@
+{
+  "ID": "ca7eba7a-8db0-4cfe-adc2-421d5d9f25bd",
+  "Version": "3.10.0.0",
+  "Name": "empire_prompt",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "empire_img/prompt_bg.png",
+              "Plist": "empire_sprites_common.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 585,
+            "Scale9Height": 318,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 367.5,
+              "Y": 231.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8367,
+              "Y": 0.7532
+            },
+            "LeftMargin": 60.0,
+            "RightMargin": 60.0,
+            "TopMargin": 57.0,
+            "BottomMargin": 57.0,
+            "Tag": 2,
+            "ActionTag": -1590046327,
+            "Size": {
+              "X": 615.0,
+              "Y": 348.0
+            },
+            "Name": "img_background",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Bạn có muốn thoát không?",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 367.5,
+              "Y": 261.03
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.565
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 0.7367,
+              "Y": 0.4762
+            },
+            "LeftMargin": 96.7628,
+            "RightMargin": 96.7628,
+            "TopMargin": 90.97,
+            "BottomMargin": 151.03,
+            "Tag": 3,
+            "ActionTag": -1670563810,
+            "Size": {
+              "X": 541.4745,
+              "Y": 220.0
+            },
+            "Name": "txt_message",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "empire_img/button_red.png",
+              "Plist": "empire_sprites_common.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 8,
+            "Scale9Width": 127,
+            "Scale9Height": 40,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 257.25,
+              "Y": 138.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.35,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.1946,
+              "Y": 0.1212
+            },
+            "LeftMargin": 185.75,
+            "RightMargin": 406.25,
+            "TopMargin": 295.4,
+            "BottomMargin": 110.6,
+            "Tag": 5,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/text_close.png",
+                  "Plist": "empire_sprites_common.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 71.5,
+                  "Y": 28.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5315,
+                  "Y": 0.5357
+                },
+                "LeftMargin": 33.5,
+                "RightMargin": 33.5,
+                "TopMargin": 13.0,
+                "BottomMargin": 13.0,
+                "Tag": 210,
+                "ActionTag": 1352685370,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 30.0
+                },
+                "Name": "txt",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 2063256272,
+            "Size": {
+              "X": 143.0,
+              "Y": 56.0
+            },
+            "Name": "btn_left",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "empire_img/button_green.png",
+              "Plist": "empire_sprites_common.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 8,
+            "Scale9Width": 127,
+            "Scale9Height": 40,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 477.75,
+              "Y": 138.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.65,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.1946,
+              "Y": 0.1212
+            },
+            "LeftMargin": 406.25,
+            "RightMargin": 185.75,
+            "TopMargin": 295.4,
+            "BottomMargin": 110.6,
+            "Tag": 7,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/text_accept.png",
+                  "Plist": "empire_sprites_common.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 71.5,
+                  "Y": 28.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6503,
+                  "Y": 0.6071
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 25.0,
+                "TopMargin": 11.0,
+                "BottomMargin": 11.0,
+                "Tag": 211,
+                "ActionTag": 1264926457,
+                "Size": {
+                  "X": 93.0,
+                  "Y": 34.0
+                },
+                "Name": "txt",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 643167142,
+            "Size": {
+              "X": 143.0,
+              "Y": 56.0
+            },
+            "Name": "btn_right",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "empire_img/button_red.png",
+              "Plist": "empire_sprites_common.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 8,
+            "Scale9Width": 127,
+            "Scale9Height": 40,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 367.5,
+              "Y": 138.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.1946,
+              "Y": 0.1212
+            },
+            "LeftMargin": 296.0,
+            "RightMargin": 296.0,
+            "TopMargin": 295.4,
+            "BottomMargin": 110.6,
+            "Tag": 9,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/localize/en/text_close.png",
+                  "Plist": "empire_sprites_common.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 71.5,
+                  "Y": 28.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5315,
+                  "Y": 0.5357
+                },
+                "LeftMargin": 33.5,
+                "RightMargin": 33.5,
+                "TopMargin": 13.0,
+                "BottomMargin": 13.0,
+                "Tag": 212,
+                "ActionTag": -2127583984,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 30.0
+                },
+                "Name": "txt",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 488225693,
+            "Size": {
+              "X": 143.0,
+              "Y": 56.0
+            },
+            "Name": "btn_middle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "empire_img/button_bg.png",
+              "Plist": "empire_sprites_common.plist"
+            },
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 22,
+            "Scale9Width": 17,
+            "Scale9Height": 15,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 672.525,
+              "Y": 401.94
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.915,
+              "Y": 0.87
+            },
+            "PreSize": {
+              "X": 0.0803,
+              "Y": 0.1277
+            },
+            "LeftMargin": 643.025,
+            "RightMargin": 32.975,
+            "TopMargin": 30.56,
+            "BottomMargin": 372.44,
+            "Tag": 107,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "empire_img/icon_close.png",
+                  "Plist": "empire_sprites_common.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.5,
+                  "Y": 29.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6441,
+                  "Y": 0.678
+                },
+                "LeftMargin": 10.5,
+                "RightMargin": 10.5,
+                "TopMargin": 9.5,
+                "BottomMargin": 9.5,
+                "Tag": 108,
+                "ActionTag": -17796701,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 40.0
+                },
+                "Name": "Iconclose",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1371919315,
+            "Size": {
+              "X": 59.0,
+              "Y": 59.0
+            },
+            "Name": "btnClose",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 735.0,
+          "Y": 462.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "empire_sprites_common.plist",
+        "empire_sprites_common.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

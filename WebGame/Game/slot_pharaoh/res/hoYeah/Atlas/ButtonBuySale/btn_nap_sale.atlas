@@ -1,0 +1,97 @@
+
+btn_nap_sale.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as_p_1
+  rotate: false
+  xy: 389, 199
+  size: 99, 39
+  orig: 99, 39
+  offset: 0, 0
+  index: -1
+as_p_2
+  rotate: false
+  xy: 291, 186
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+as_p_3
+  rotate: false
+  xy: 2, 159
+  size: 176, 79
+  orig: 176, 79
+  offset: 0, 0
+  index: -1
+as_p_4
+  rotate: false
+  xy: 291, 149
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+as_t_1
+  rotate: false
+  xy: 180, 73
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+as_t_2
+  rotate: false
+  xy: 180, 110
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+as_t_3
+  rotate: false
+  xy: 2, 81
+  size: 176, 76
+  orig: 176, 76
+  offset: 0, 0
+  index: -1
+as_tam_giac_1
+  rotate: false
+  xy: 111, 55
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+base_phai
+  rotate: false
+  xy: 2, 10
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+base_trai
+  rotate: false
+  xy: 180, 163
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+hot_p_1
+  rotate: false
+  xy: 281, 152
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+hot_t_1
+  rotate: true
+  xy: 281, 143
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 2, 2
+  size: 6, 65
+  orig: 6, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+skeleton.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FX/Frame_Light_1
+  rotate: true
+  xy: 2, 108
+  size: 172, 370
+  orig: 190, 386
+  offset: 9, 8
+  index: -1
+FX/Frame_Light_2
+  rotate: true
+  xy: 400, 263
+  size: 167, 281
+  orig: 184, 294
+  offset: 9, 7
+  index: -1
+FX/Frame_Light_3
+  rotate: true
+  xy: 683, 212
+  size: 172, 223
+  orig: 190, 239
+  offset: 9, 8
+  index: -1
+FX/Frame_Light_4
+  rotate: false
+  xy: 226, 282
+  size: 172, 148
+  orig: 190, 164
+  offset: 9, 8
+  index: -1
+FX/PP_01
+  rotate: false
+  xy: 2, 694
+  size: 12, 12
+  orig: 31, 29
+  offset: 9, 9
+  index: -1
+FX/PP_Star_02
+  rotate: true
+  xy: 822, 386
+  size: 144, 158
+  orig: 180, 180
+  offset: 23, 7
+  index: -1
+FX/Symbol_Num_2
+  rotate: true
+  xy: 89, 653
+  size: 53, 71
+  orig: 98, 148
+  offset: 22, 39
+  index: -1
+FX/Symbol_Num_2_OutLine
+  rotate: true
+  xy: 302, 640
+  size: 66, 84
+  orig: 98, 148
+  offset: 16, 32
+  index: -1
+FX/Symbol_Num_3
+  rotate: true
+  xy: 16, 654
+  size: 52, 71
+  orig: 98, 222
+  offset: 23, 75
+  index: -1
+FX/Symbol_Num_3_OutLine
+  rotate: true
+  xy: 388, 638
+  size: 68, 86
+  orig: 98, 222
+  offset: 15, 67
+  index: -1
+FX/Symbol_Num_4
+  rotate: true
+  xy: 162, 652
+  size: 54, 71
+  orig: 98, 296
+  offset: 22, 112
+  index: -1
+FX/Symbol_Num_4_OutLine
+  rotate: true
+  xy: 476, 637
+  size: 69, 86
+  orig: 98, 296
+  offset: 15, 104
+  index: -1
+FX/ringwave03
+  rotate: true
+  xy: 374, 2
+  size: 208, 430
+  orig: 208, 430
+  offset: 0, 0
+  index: -1
+FX/symbol_f_gold_1
+  rotate: true
+  xy: 452, 532
+  size: 98, 296
+  orig: 98, 296
+  offset: 0, 0
+  index: -1
+FX/symbol_f_gold_2
+  rotate: true
+  xy: 750, 532
+  size: 98, 222
+  orig: 98, 222
+  offset: 0, 0
+  index: -1
+FX/symbol_f_gold_3
+  rotate: true
+  xy: 2, 553
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+FX/symbol_f_gold_4
+  rotate: false
+  xy: 641, 632
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+Symbol_00/Symbol_00
+  rotate: false
+  xy: 235, 647
+  size: 65, 59
+  orig: 98, 296
+  offset: 17, 115
+  index: -1
+Symbol_00/Symbol_00_1
+  rotate: true
+  xy: 2, 447
+  size: 98, 296
+  orig: 98, 296
+  offset: 0, 0
+  index: -1
+Symbol_00/Symbol_00_2
+  rotate: true
+  xy: 300, 432
+  size: 98, 222
+  orig: 98, 222
+  offset: 0, 0
+  index: -1
+Symbol_00/Symbol_00_3
+  rotate: true
+  xy: 152, 547
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+Symbol_00/Symbol_00_4
+  rotate: false
+  xy: 741, 632
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+Symbol_00/Symbol_00_Light
+  rotate: false
+  xy: 564, 637
+  size: 75, 69
+  orig: 98, 296
+  offset: 12, 111
+  index: -1
+Symbol_10/Symbol_10_1
+  rotate: true
+  xy: 524, 432
+  size: 98, 296
+  orig: 98, 296
+  offset: 0, 0
+  index: -1
+Symbol_10/Symbol_10_2
+  rotate: true
+  xy: 2, 347
+  size: 98, 222
+  orig: 98, 222
+  offset: 0, 0
+  index: -1
+Symbol_10/Symbol_10_3
+  rotate: true
+  xy: 302, 538
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+Symbol_10/Symbol_10_4
+  rotate: false
+  xy: 841, 632
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1

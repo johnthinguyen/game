@@ -1,0 +1,62 @@
+
+ruong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l5
+  rotate: false
+  xy: 85, 59
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 146
+  size: 164, 95
+  orig: 164, 95
+  offset: 0, 0
+  index: -1
+nap1
+  rotate: false
+  xy: 2, 32
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+nap2
+  rotate: false
+  xy: 168, 188
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+ruong
+  rotate: false
+  xy: 2, 81
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 2, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 85, 44
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 168, 141
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1

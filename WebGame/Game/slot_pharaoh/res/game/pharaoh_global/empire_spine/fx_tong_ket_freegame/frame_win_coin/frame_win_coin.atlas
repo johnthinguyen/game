@@ -1,0 +1,62 @@
+
+frame_win_coin.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FG_Compliment/Frame_Light
+  rotate: false
+  xy: 2, 55
+  size: 399, 155
+  orig: 399, 155
+  offset: 0, 0
+  index: -1
+FG_Compliment/eft_bol_01
+  rotate: false
+  xy: 2, 375
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+FG_Compliment/eft_exp_02
+  rotate: false
+  xy: 84, 336
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+FG_Compliment/eft_exp_04
+  rotate: false
+  xy: 151, 336
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+FG_Compliment/eft_exp_06
+  rotate: false
+  xy: 30, 349
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+FG_Compliment/eft_str_m02
+  rotate: true
+  xy: 218, 326
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+Num_BG
+  rotate: false
+  xy: 2, 212
+  size: 205, 122
+  orig: 205, 122
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 302, 319
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1

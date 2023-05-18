@@ -1,0 +1,195 @@
+
+freegame_start.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FG_Declare/Declare_Building
+  rotate: false
+  xy: 1554, 1906
+  size: 178, 99
+  orig: 178, 99
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_Stairs
+  rotate: true
+  xy: 1412, 1327
+  size: 548, 593
+  orig: 548, 593
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_Stairs_Light
+  rotate: true
+  xy: 2, 1270
+  size: 548, 593
+  orig: 548, 593
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_Stone
+  rotate: true
+  xy: 2, 1871
+  size: 104, 459
+  orig: 104, 459
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_bg
+  rotate: false
+  xy: 597, 1114
+  size: 800, 640
+  orig: 800, 640
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_01
+  rotate: true
+  xy: 478, 1973
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_02
+  rotate: false
+  xy: 687, 1957
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_03
+  rotate: false
+  xy: 831, 1942
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_04
+  rotate: false
+  xy: 1094, 1930
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_05
+  rotate: false
+  xy: 935, 1942
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_06
+  rotate: false
+  xy: 745, 1952
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_07
+  rotate: false
+  xy: 611, 1970
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_08
+  rotate: true
+  xy: 1008, 1941
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_09
+  rotate: true
+  xy: 321, 1977
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_10
+  rotate: false
+  xy: 531, 1971
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_11
+  rotate: false
+  xy: 394, 1977
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_13
+  rotate: false
+  xy: 274, 1980
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_leaf_14
+  rotate: true
+  xy: 225, 1984
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_stone_02
+  rotate: true
+  xy: 463, 1820
+  size: 130, 322
+  orig: 130, 322
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_stone_03
+  rotate: true
+  xy: 1206, 1927
+  size: 78, 346
+  orig: 78, 346
+  offset: 0, 0
+  index: -1
+FG_Declare/Declare_tree
+  rotate: true
+  xy: 8, 1986
+  size: 19, 215
+  orig: 19, 215
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_Txt_Borad
+  rotate: false
+  xy: 952, 1756
+  size: 458, 169
+  orig: 458, 169
+  offset: 0, 0
+  index: -1
+FG_Declare/FG_light
+  rotate: false
+  xy: 1734, 1890
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+FG_Declare/LT_01
+  rotate: false
+  xy: 787, 1777
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+FG_Declare/Light_04
+  rotate: false
+  xy: 1876, 1877
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FG_Declare/Mask
+  rotate: false
+  xy: 2, 2004
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FG_Declare/Mask_End
+  rotate: false
+  xy: 5, 2004
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

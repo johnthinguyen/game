@@ -1,0 +1,100 @@
+{
+  "jsList": [
+
+    "common/macros.js",
+    "common/defines.js",
+    "common/resource.js",
+    "common/polyfills.js",
+
+    "libs/jpeg.js",
+    "libs/utf8.js",
+    "libs/lodash.js",
+
+    "data/dictionary.js",
+
+    "crypto/B32.js",
+    "crypto/B64.js",
+    "crypto/MD5.js",
+    "crypto/RC4.js",
+    "crypto/SHA1.js",
+
+    "pool/node_pool.js",
+
+    "jsb/jsb_portal_watcher.js",
+    "jsb/jsb_portal_manager.js",
+    "jsb/jsb_portal_event_manager.js",
+
+    "jsb/jsb_portal_helper_defines.js",
+    "jsb/jsb_portal_helper.js",
+    "jsb/jsb_portal_helper_extensions.js",
+    "jsb/jsb_portal_helper_overrides.js",
+    "jsb/jsb_portal_helper_template.js",
+    "jsb/jsb_portal_helper_watcher.js",
+    "jsb/jsb_portal_helper_match.js",
+
+    "framework/module.js",
+    "framework/promise.js",
+    "framework/observable.js",
+    "framework/event_stream.js",
+    "framework/event_emitter.js",
+    "framework/state_machine.js",
+    "framework/listener_manager.js",
+
+    "localize/lang/en.js",
+    "localize/lang/vi.js",
+    "localize/lang/kh.js",
+    "localize/lang/zh.js",
+    "localize/localize.js",
+
+    "utils/game_utils.js",
+    "utils/node_utils.js",
+    "utils/math_utils.js",
+    "utils/audio_utils.js",
+    "utils/crypto_utils.js",
+    "utils/string_utils.js",
+
+    "webservice/error_codes.js",
+    "webservice/http_request.js",
+    "webservice/web_service_config.js",
+    "webservice/web_service.js",
+
+    "kingserver/protocol/king_json_keys.js",
+    "kingserver/protocol/king_protocols.js",
+    "kingserver/protocol/king_beta.js",
+
+    "kingserver/models/king_user_info.js",
+    "kingserver/models/king_room_info.js",
+
+    "kingserver/controllers/base_controller.js",
+    "kingserver/controllers/king_controller.js",
+
+    "kingserver/managers/king_login_manager.js",
+    "kingserver/managers/king_lobby_manager.js",
+    "kingserver/managers/king_room_manager.js",
+
+    "kingserver/components/king_login_scene.js",
+    "kingserver/components/king_ping_widget.js",
+
+    "widgets/toggle_button.js",
+    "widgets/page_navigator.js",
+    "widgets/popup_abstract.js",
+    "widgets/popup_waiting.js",
+    "widgets/game_prompt.js",
+
+    "scenes/debug_scene.js",
+
+    "reportbugs/TaskResizeImage.js",
+    "reportbugs/TaskFlipImage.js",
+    "reportbugs/TaskCompressImage.js",
+    "reportbugs/TaskEncodeImage.js",
+    "reportbugs/TaskEncodeBase64.js",
+    "reportbugs/ScreenCaptureProgress.js",
+    "reportbugs/ReportBugConfig.js",
+    "reportbugs/ReportBugLocalize.js",
+    "reportbugs/ReportBugButton.js",
+    "reportbugs/ReportBugReasonSelector.js",
+
+    "extensions/base/FloaterConfig.js",
+    "extensions/base/FloaterManager.js"
+  ]
+}

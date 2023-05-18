@@ -1,0 +1,62 @@
+
+topJackpot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 223, 139
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 474, 228
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+ch
+  rotate: false
+  xy: 0, 95
+  size: 223, 60
+  orig: 223, 60
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 254, 48
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 254, 189
+  size: 220, 61
+  orig: 220, 61
+  offset: 0, 0
+  index: -1
+kk
+  rotate: false
+  xy: 0, 42
+  size: 212, 53
+  orig: 212, 53
+  offset: 0, 0
+  index: -1
+ko
+  rotate: false
+  xy: 0, 155
+  size: 254, 95
+  orig: 254, 95
+  offset: 0, 0
+  index: -1
+tv
+  rotate: false
+  xy: 0, 0
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,600 @@
+{
+  "ID": "e77bb8aa-0a15-430e-a527-386d01eb478c",
+  "Version": "2.3.4",
+  "Name": "LayerLoading",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 440,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Loading/background.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 441,
+            "ActionTag": -1704674148,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "spBackground",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Loading/icPorn.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 131.968,
+              "Y": 661.968
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.1031,
+              "Y": 0.9194
+            },
+            "PreSize": {
+              "X": 0.1758,
+              "Y": 0.1167
+            },
+            "LeftMargin": 19.468,
+            "RightMargin": 1035.532,
+            "TopMargin": 16.032,
+            "BottomMargin": 619.968,
+            "Tag": 920,
+            "ActionTag": 1961172427,
+            "Size": {
+              "X": 225.0,
+              "Y": 84.0
+            },
+            "VisibleForFrame": false,
+            "Name": "spPorn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Loading/spTitle.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 421.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.585
+            },
+            "PreSize": {
+              "X": 0.4781,
+              "Y": 0.85
+            },
+            "LeftMargin": 334.0,
+            "RightMargin": 334.0,
+            "TopMargin": -7.2,
+            "BottomMargin": 115.2,
+            "Tag": 442,
+            "ActionTag": 330601683,
+            "Size": {
+              "X": 612.0,
+              "Y": 612.0
+            },
+            "Name": "spTitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Loading/barBg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 108.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.15
+            },
+            "PreSize": {
+              "X": 0.5664,
+              "Y": 0.0653
+            },
+            "LeftMargin": 277.5,
+            "RightMargin": 277.5,
+            "TopMargin": 588.5,
+            "BottomMargin": 84.5,
+            "Tag": 446,
+            "Children": [
+              {
+                "FontSize": 27,
+                "LabelText": "Tip: Hai lao động Việt Nam đối mặt với án tù và hàng nghìn USD tiền phạt",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/OpenSans-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineSize": 2,
+                "OutlineColor": {},
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 362.5,
+                  "Y": 91.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.9362
+                },
+                "PreSize": {
+                  "X": 1.2814,
+                  "Y": 0.7872
+                },
+                "LeftMargin": -102.0,
+                "RightMargin": -102.0,
+                "TopMargin": -62.5001,
+                "BottomMargin": 72.5001,
+                "Tag": 449,
+                "ActionTag": -1666746612,
+                "Size": {
+                  "X": 929.0,
+                  "Y": 37.0
+                },
+                "VisibleForFrame": false,
+                "Name": "txtTip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ProgressInfo": 100,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "Loading/barMain.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 362.5,
+                  "Y": 24.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.52
+                },
+                "PreSize": {
+                  "X": 0.9807,
+                  "Y": 0.7234
+                },
+                "LeftMargin": 7.0,
+                "RightMargin": 7.0,
+                "TopMargin": 5.56,
+                "BottomMargin": 7.44,
+                "Tag": 445,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Loading/barBgUp.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 355.5,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0436,
+                      "Y": 1.6176
+                    },
+                    "LeftMargin": -15.5,
+                    "RightMargin": -15.5,
+                    "TopMargin": -10.5,
+                    "BottomMargin": -10.5,
+                    "Tag": 348,
+                    "ActionTag": -1136332154,
+                    "Size": {
+                      "X": 742.0,
+                      "Y": 55.0
+                    },
+                    "Name": "spBg",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "RightMargin": 711.0,
+                    "TopMargin": 17.0,
+                    "BottomMargin": 17.0,
+                    "Tag": 451,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Loading/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -99.93,
+                          "Y": 8.876
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -269.93,
+                        "RightMargin": -70.07,
+                        "TopMargin": -61.876,
+                        "BottomMargin": -44.124,
+                        "Tag": 447,
+                        "ActionTag": -1611767355,
+                        "Size": {
+                          "X": 340.0,
+                          "Y": 106.0
+                        },
+                        "Name": "spLight",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Loading/icGold.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -3.6218,
+                          "Y": 0.0766
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -50.6218,
+                        "RightMargin": -43.3782,
+                        "TopMargin": -51.0766,
+                        "BottomMargin": -50.9234,
+                        "Tag": 448,
+                        "ActionTag": -296581827,
+                        "Size": {
+                          "X": 94.0,
+                          "Y": 102.0
+                        },
+                        "Name": "spGold",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Loading/sparkle.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -47.6081,
+                          "Y": -3.3559
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -109.6081,
+                        "RightMargin": -14.3919,
+                        "TopMargin": -43.1441,
+                        "BottomMargin": -49.8559,
+                        "Tag": 347,
+                        "ActionTag": -516765154,
+                        "Size": {
+                          "X": 124.0,
+                          "Y": 93.0
+                        },
+                        "Name": "spLigh2",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1378687044,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "icator",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": 1175552265,
+                "Size": {
+                  "X": 711.0,
+                  "Y": 34.0
+                },
+                "Name": "loadingBar",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "LOADING 70%",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/OpenSans-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 362.5,
+                  "Y": -18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.383
+                },
+                "PreSize": {
+                  "X": 0.2952,
+                  "Y": 0.9574
+                },
+                "LeftMargin": 255.5,
+                "RightMargin": 255.5,
+                "TopMargin": 42.5,
+                "BottomMargin": -40.5,
+                "Tag": 450,
+                "ActionTag": -189670975,
+                "Size": {
+                  "X": 214.0,
+                  "Y": 45.0
+                },
+                "VisibleForFrame": false,
+                "Name": "txtLoading",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1597255136,
+            "Size": {
+              "X": 725.0,
+              "Y": 47.0
+            },
+            "Name": "spBar",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/OpenSans-Bold.ttf",
+        "Fonts/OpenSans-Regular.ttf",
+        "Loading/background.png",
+        "Loading/barBg.png",
+        "Loading/barBgUp.png",
+        "Loading/barMain.png",
+        "Loading/icGold.png",
+        "Loading/icPorn.png",
+        "Loading/light.png",
+        "Loading/sparkle.png",
+        "Loading/spTitle.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
